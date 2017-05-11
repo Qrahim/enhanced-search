@@ -1,0 +1,171 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+  <meta name="viewport" content="initial-scale=1.0, user-scalable=no">
+  <meta charset="utf-8">
+  <title>Simple markers</title>
+  <style>
+
+  </style>
+  <link href="https://fonts.googleapis.com/css?family=Hind:300,400,500,600,700" rel="stylesheet" type="text/css">
+  <link href="/Experimental%20Files/css-files/foundation.css" rel="stylesheet" type="text/css">
+  <link href="/Experimental%20Files/css-files/custom.css" rel="stylesheet" type="text/css">
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/handlebars.js/4.0.6/handlebars.min.js" charset="utf-8"></script>
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+
+
+</head>
+
+
+<body>
+
+
+<a href='#' class='getResults'>Get more</a>
+
+<a href='#' class='griditup'>Get more</a>
+
+
+  <div id="Searchresults-ListPrint" class="listView__wrapper">
+    <section class="row listView__propTile medium-collapse">
+      <div class="columns small-4 listView__propImg">
+        <img src="https://img.chooseacottage.co.uk/property/546/400/546991.jpg" />
+      </div>
+      <div class="columns small-5 listView__propInfo">
+        <hgroup>
+          <h3>Tokenbury Manor - Milking Parlour</h3>
+          <div class="listView__propGrade">
+            <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEwAAAAPCAYAAABOWynpAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAyZpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuNi1jMTM4IDc5LjE1OTgyNCwgMjAxNi8wOS8xNC0wMTowOTowMSAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvIiB4bWxuczp4bXBNTT0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wL21tLyIgeG1sbnM6c3RSZWY9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9zVHlwZS9SZXNvdXJjZVJlZiMiIHhtcDpDcmVhdG9yVG9vbD0iQWRvYmUgUGhvdG9zaG9wIENDIDIwMTcgKFdpbmRvd3MpIiB4bXBNTTpJbnN0YW5jZUlEPSJ4bXAuaWlkOjI0REM3REM0QTI4OTExRTZBNTY4RTUxN0VGRDhBOEY1IiB4bXBNTTpEb2N1bWVudElEPSJ4bXAuZGlkOjI0REM3REM1QTI4OTExRTZBNTY4RTUxN0VGRDhBOEY1Ij4gPHhtcE1NOkRlcml2ZWRGcm9tIHN0UmVmOmluc3RhbmNlSUQ9InhtcC5paWQ6MjREQzdEQzJBMjg5MTFFNkE1NjhFNTE3RUZEOEE4RjUiIHN0UmVmOmRvY3VtZW50SUQ9InhtcC5kaWQ6MjREQzdEQzNBMjg5MTFFNkE1NjhFNTE3RUZEOEE4RjUiLz4gPC9yZGY6RGVzY3JpcHRpb24+IDwvcmRmOlJERj4gPC94OnhtcG1ldGE+IDw/eHBhY2tldCBlbmQ9InIiPz7W9i1XAAADHklEQVR42qyYaYiNURjH78yVZYylUYOy5Q4fJjNj+WipsQ8yUpRlGIUkS0wpu1Dkiw/4INtQYihFUaSokUITY4sQjVFChLpjH/+n/qeO133PduepX+9973n/5znvc57znHNvTmttWcJgHcG3RJhloxXrBFra2m9T+YWs9LkG4RBwMIsXXg+mBWqT4CLoHKDdD4YF+u0CLtG/d8B2gflgaIDjnmAt+0gG6KtBOajx1BVTuzswYDX0W+UbsFHMjly+tK9tAfnM0qqApbhNe4FCD62aoIlgXOAki23n0nQO2B7t82Qw1sNxEVii3cc6j7FVoA8/dwUbHXUyydO1e8myHA+/m7gkxfqCFZkeykHRT+E6HEj1L+G1f+S5NHgA7oNGXhvAT9aLMlJKukX0b6lr1Pp4CHqAEVz2JdTKsmqnaf+Ap/R/j/pHDKryp8YerXlNfF75vIui/wzX3vRbqo17cCSBftGPem/x3SABm4kPZzxrzXUwFXwHtax1Piapv5czWZ9hgkz2gVkvGTTeQ/cbzEPA6hjca5wwV3sFRktEz4GF7NDFbjH109RUsw9X28xgib3mS79x1H5msCS7K8ENR10ry0Qd7yVrKtifizVznM0qBU+CZezYZJKWk8DXyMzN4XbsUpR3Rr57ziL93qKVCZrCYKl72ZhuOwRrJTgW+f4O9WmLXsY1AbyIFv3D4KhFHDcrP8As8M6glSWwIabtMVhk8b0a3MyQcRWW1XECHIhpkwxdY/G7ADyJ2yU7WMSmdqln3S0naJPlORw34saUDNC5+s0zHSsGWsSmdtm12hvaU1n0rY4rbalzHVfKFDDV+AnsYGGtd3SuD1yK6lzuhqqgF2rnHJNejhGnWSuPcLmbAqN/L0t2BtgKPnomgfg5RL9nOY7/9HrA8nnQkzozgKd1+aU6hly2OC9iAa7k2eYUd0OZhOXgpUXfj4W5mJvIFbCY/e7j2SmTDQJX+ZNmJDjPw7K8wzqWigKD317sX8a5lH5ncxzHOa5/Dq7RWmDaNQq0mfNpS/AwKvXgS6A+rt2mUzWsJebfCi+/fwUYAEQ1tWtjTS3iAAAAAElFTkSuQmCC"
+            />
+          </div>
+          <h4> <span class="icon-location-mark-b"></span>Pensilva, near Liskeard, Cornwall</h4>
+        </hgroup>
+
+        <div class='columns medium-12'>
+          <ul class="listView__propFeatures clearfix row">
+            <li class="medium-3 columns"><span class="icon-sleeps-b"></span>2</li>
+            <li class="medium-3 columns"><span class="icon-bedrooms-b"></span>1</li>
+            <li class="medium-3 columns"><span class="icon-bathrooms-b"></span>1</li>
+            <li class="medium-3 columns"><span class="icon-pets-b"></span>1</li>
+          </ul>
+          <div class='row listView__propInsideWrapper'>
+            <div class="listView__propKeyFeatures medium-4 columns">
+              <h6>Key Features:</h6>
+              <ul>
+                <li>- Wifi</li>
+                <li>- Car parking on site</li>
+                <li>- Pub within 1 mile</li>
+              </ul>
+            </div>
+            <div class="listView__propDesc medium-8 columns">
+              <p>These 4 quality and characterful barn conversions are set in striking ’White Peak’ scenery and each enjoys
+                one...</p>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="columns listView__propPriceHolder">
+        <div class='columns medium-12 listView__propPriceWrapper'>
+          <div class='row'>
+            <h3 class='listView__propMessage medium-12 columns'>Today's Price</h3>
+            <h2 class='listView__propPrice medium-12 columns'><sup>£</sup>438</h2>
+            <div class='listView_propDateWrapper medium-12 columns'>
+              <p class="listView_propDateDD">Friday 28th</p>
+              <p class="listView_propDateMY">April 2017</p>
+            </div>
+          </div>
+        </div>
+        <a class='listView__propUrl' href="#">View <span class="icon-arrow-right-b"></span></a>
+      </div>
+    </section>
+  </div>
+
+
+  <script type="text/template" id="property-listView">
+
+    {{#each this.properties}}
+      <section class="row listView__propTile medium-collapse">
+        <div class="columns small-4 listView__propImg">
+          <img src="{{images.0.imageURL}}" />
+        </div>
+        <div class="columns small-5 listView__propInfo">
+          <hgroup>
+            <h3>{{ name }}</h3>
+            <div class="listView__propGrade">
+              {{ grading }}
+            </div>
+            <h4> <span class="icon-location-mark-b"></span>{{ location }}</h4>
+          </hgroup>
+
+          <div class='columns medium-12'>
+            <ul class="listView__propFeatures clearfix row">
+              <li class="medium-3 columns"><span class="icon-sleeps-b"></span>{{ guests }}</li>
+              <li class="medium-3 columns"><span class="icon-bedrooms-b"></span>{{ beds }}</li>
+              <li class="medium-3 columns"><span class="icon-bathrooms-b"></span>{{ bathrooms }}</li>
+              <li class="medium-3 columns"><span class="icon-pets-b"></span>{{ pets }}</li>
+            </ul>
+            <div class='row listView__propInsideWrapper'>
+              <div class="listView__propKeyFeatures medium-4 columns">
+                <h6>Key Features:</h6>
+                <ul>
+                  {{#each this.keyFeatures}}
+                  <li>- {{this}}</li>
+                  {{/each}}
+                </ul>
+              </div>
+              <div class="listView__propDesc medium-8 columns">
+                <p>{{{ shortDescription }}}</p>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="columns listView__propPriceHolder">
+          <div class='columns medium-12 listView__propPriceWrapper'>
+            <div class='row'>
+              <h3 class='listView__propMessage medium-12 columns'>Today's Price</h3>
+              <h2 class='listView__propPrice medium-12 columns'>{{ closestPriceNow }}</h2>
+              <div class='listView_propDateWrapper medium-12 columns'>
+                <p class="listView_propDateDD">Friday 28th</p>
+                <p class="listView_propDateMY">April 2017</p>
+              </div>
+            </div>
+          </div>
+          <a class='listView__propUrl' href="#">View <span class="icon-arrow-right-b"></span></a>
+        </div>
+      </section>
+    {{/each}}
+  </script>
+
+
+  <script>
+
+    var PolygonJsonResponse;
+
+    $('.getResults').click(function() {
+          $.ajax({
+              async: true,
+              dataType: 'json',
+              url: '/Json-pulled/YDNP-inside.json',
+              success: function (result) {
+                  PolygonJsonResponse = result;
+                  console.log(PolygonJsonResponse);
+                  $('.getResults').AccommodationMap();
+              },
+              error: function (result) {
+                  
+              }
+          });
+    });
+
+  </script>
+
+
+  
+  <script src="/Experimental%20Files/JS-files/markerclusterer.min.js"></script>
+  <script src="/Experimental%20Files/JS-files/markerSpiderfier.js"></script>
+  <script src="/Experimental%20Files/JS-files/mapmaker.js"></script>
+
+</body>
+
+</html>

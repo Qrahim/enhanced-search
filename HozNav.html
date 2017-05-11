@@ -1,0 +1,1010 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+    <meta name="viewport" content="initial-scale=1.0, user-scalable=no">
+    <meta charset="utf-8">
+    <title>Horizontal Navigation</title>
+    <link href="https://fonts.googleapis.com/css?family=Hind:300,400,500,600,700" rel="stylesheet" type="text/css">
+    <link href="/Experimental%20Files/css-files/foundation.css" rel="stylesheet" type="text/css">
+    <link href="/Experimental%20Files/css-files/custom.css" rel="stylesheet" type="text/css">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/handlebars.js/4.0.6/handlebars.min.js" charset="utf-8"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+    <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.18.1/moment.min.js"></script>
+
+</head>
+
+
+<body>
+
+    <div id="horizontalNav" class="horizontalNav__wrapper">
+
+        <div class='row' id="polygonList">
+
+                <div class="column medium-3">
+                    <div class="horizontalNav__polygonFilter horizontalNav--filterOpen">Search all countries</div>
+
+                    <div data-selector="polygonFilter" class="horizontalNav__polygonFilterPopUp horizontalNav--popUp hide">
+
+                        <div class='horizontalNav--filterSelect'>
+                            <a href="#" class="horizontalNav--filterClose">×</a>
+                            <div class='horizontalNav__polygonFilterBreadcrumb'>
+                                <h4>Search All Countries</h4>
+                            </div>
+                        </div>
+
+                        <div class='horizontalNav__polygonFilterContent horizontalNav--filterContent horizontalNav__polygonFilter--background'>
+                            <h3>Where would you like to go?</h3>
+                            <ul>
+                                <li><a href='#' data-key='england'>England</a></li>
+                                <li><a href='#' data-key="scotland">Scotland</a></li>
+                                <li><a href='#' data-key="wales">Wales</a></li>
+                                <li><a href='#' data-key="france">France</a></li>
+                                <li><a href='#' data-key="ireland">Ireland</a></li>
+                                <li><a href='#' data-key="italy">Italy</a></li>
+                                <li><a href='#' data-key="channel-islands">Channel Islands</a></li>
+                                <li><a href='#' data-key="isle-of-man">Isle of Man</a></li>
+                            </ul>
+                        </div>
+
+                    </div>
+                </div>
+
+
+                <div class="column medium-3">
+                    <div class="horizontalNav__dateFilter horizontalNav--filterOpen">Dates</div>
+                    <div data-selector="dateFilter" class="horizontalNav__dateFilterPopUp horizontalNav--popUp hide">
+
+                        <div class='horizontalNav--filterSelect'>
+                            <a href="#" class="horizontalNav--filterClose">×</a>
+                            <div id='rhs-breadcrumb'>
+                                <h4>Your Start Date</h4>
+                            </div>
+                        </div>
+
+                        <div class='horizontalNav__dateFilterContent horizontalNav--filterContent'>
+                            <div class="row large-collapse horizontalNav__dateFilter--innerWrapper">
+
+                                <div class="column medium-8">
+                                    <div id="date-picker"></div>
+                                </div>
+
+                                <div class="column medium-4">
+
+                                    <div class="horizontalNav__dateFilter--extraFilters">
+                                        <h4>Duration</h4>
+                                        <select class="horizontalNav__dateFilter--rangeSelector">
+                                            <option value="2">2 nights</option>
+                                            <option value="3">3 nights</option>
+                                            <option value="4">4 nights</option>
+                                            <option value="7">7 nights</option>
+                                            <option value="14">14 nights</option>
+                                        </select>
+                                        <h4>Flexible Start Date</h4>
+                                        <div class="horizontalNav__dateFilter--extraRangeFiltersWrapper">
+                                            <div class="horizontalNav__dateFilter--extraRangeFilters">
+                                                <input type="radio" id="dont" name="range" value="">
+                                                <label for="dont" class="fsb">I do not have specific dates</label>
+                                            </div>
+                                            <div class="horizontalNav__dateFilter--extraRangeFilters">
+                                                <input type="radio" id="exact_date" name="range" value="0">
+                                                <label for="exact_date" class="fsb">I want this exact date</label>
+                                            </div>
+                                            <div class="horizontalNav__dateFilter--extraRangeFilters">
+                                                <input type="radio" id="flexithree" name="range" value="3" checked="">
+                                                <label for="flexithree" class="fsb">I'm flexible +/- 3 days</label>
+                                            </div>
+                                            <div class="horizontalNav__dateFilter--extraRangeFilters">
+                                                <input type="radio" id="flexiseven" name="range" value="7">
+                                                <label for="flexiseven" class="fsb">I'm flexible +/- 7 days</label>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+
+                    </div>
+                </div>
+
+
+                <div class="column medium-3">
+                    <div class="horizontalNav__partyFilter horizontalNav--filterOpen">Guests</div>
+
+                    <div data-selector="partyFilter" class="horizontalNav__partyFilterPopUp horizontalNav--popUp hide">
+
+
+
+                        <div class='horizontalNav--filterSelect'>
+                            <a href="#" class="horizontalNav--filterClose">×</a>
+                            <h4>Guests</h4>
+                        </div>
+
+
+
+                        <div class='horizontalNav__partyFilterContent horizontalNav--filterContent'>
+
+
+                            <div class="row large-collapse align-middle horizontalNav__partyFilter--innerWrapper">
+
+                                <div class="column small-4">Aged 18+</div>
+
+                                <div class="column small-1">
+                                    <button type="button" class="horizontalNav__partyFilter--minusOptions">-</button>
+                                </div>
+
+                                <div class="column small-6">
+                                    <select name="adult">
+                                        <option value="1">1 Adult</option>
+                                        <option value="2" selected="selected">2 Adults</option>
+                                        <option value="3">3 Adults</option>
+                                        <option value="4">4 Adults</option>
+                                        <option value="5">5 Adults</option>
+                                        <option value="6">6 Adults</option>
+                                        <option value="7">7 Adults</option>
+                                        <option value="8">8 Adults</option>
+                                        <option value="9">9 Adults</option>
+                                        <option value="10">10 Adults</option>
+                                        <option value="11">11 Adults</option>
+                                        <option value="12">12 Adults</option>
+                                        <option value="13">13 Adults</option>
+                                        <option value="14">14 Adults</option>
+                                        <option value="15">15 Adults</option>
+                                        <option value="16">16 Adults</option>
+                                        <option value="17">17 Adults</option>
+                                        <option value="18">18 Adults</option>
+                                        <option value="19">19 Adults</option>
+                                        <option value="20">20 Adults</option>
+                                        <option value="21">21 Adults</option>
+                                        <option value="22">22 Adults</option>
+                                        <option value="23">23 Adults</option>
+                                        <option value="24">24 Adults</option>
+                                        <option value="25">25 Adults</option>
+                                        <option value="26">26 Adults</option>
+                                        <option value="27">27 Adults</option>
+                                        <option value="28">28 Adults</option>
+                                        <option value="29">29 Adults</option>
+                                        <option value="30">30 Adults</option>
+                                    </select>
+                                </div>
+
+                                <div class="column small-1">
+                                    <button type="button" class="horizontalNav__partyFilter--plusOptions">+</button>
+                                </div>
+
+                                
+
+                            </div>
+
+                            <div class="row large-collapse align-middle horizontalNav__partyFilter--innerWrapper">
+
+                                <div class="column small-4">Aged 2-17</div>
+
+                                <div class="column small-1">
+                                    <button type="button" class="horizontalNav__partyFilter--minusOptions">-</button>
+                                </div>
+
+                                <div class="column small-6">
+                                    <select id="" name="child">
+                                        <option value="0" selected="selected">0 Children</option>
+                                        <option value="1">1 Child</option>
+                                        <option value="2">2 Children</option>
+                                        <option value="3">3 Children</option>
+                                        <option value="4">4 Children</option>
+                                        <option value="5">5 Children</option>
+                                        <option value="6">6 Children</option>
+                                        <option value="7">7 Children</option>
+                                        <option value="8">8 Children</option>
+                                        <option value="9">9 Children</option>
+                                        <option value="10">10 Children</option>
+                                    </select>
+                                </div>
+
+                                <div class="column small-1">
+                                    <button type="button" class="horizontalNav__partyFilter--plusOptions">+</button>
+                                </div>
+
+                            </div>
+
+                            <div class="row large-collapse align-middle horizontalNav__partyFilter--innerWrapper">
+
+                                <div class="column small-4">Under 2</div>
+
+                                <div class="column small-1">
+                                    <button type="button" class="horizontalNav__partyFilter--minusOptions">-</button>
+                                </div>
+
+                                <div class="column small-6">
+                                    <select id="" name="infant">
+                                        <option value="0" selected="selected">0 Infants</option>
+                                        <option value="1">1 Infant</option>
+                                        <option value="2">2 Infants</option>
+                                        <option value="3">3 Infants</option>
+                                        <option value="4">4 Infants</option>
+                                        <option value="5">5 Infants</option>
+                                    </select>
+                                </div>
+
+                                <div class="column small-1">
+                                    <button type="button" class="horizontalNav__partyFilter--plusOptions">+</button>
+                                </div>
+
+                            </div>
+
+                            <div class="row large-collapse align-middle horizontalNav__partyFilter--innerWrapper">
+
+                                <div class="column small-1 large-offset-4">
+                                    <button type="button" class="horizontalNav__partyFilter--minusOptions">-</button>
+                                </div>
+
+                                <div class="column small-6">
+                                    <select id="" name="pets">
+                                        <option value="0" selected="selected">0 Pets</option>
+                                        <option value="1">1 Pet</option>
+                                        <option value="2">2 Pets</option>
+                                        <option value="3">3 Pets</option>
+                                    </select>
+                                </div>
+
+                                <div class="column small-1">
+                                    <button type="button" class="horizontalNav__partyFilter--plusOptions">+</button>
+                                </div>
+
+                            </div>
+
+
+
+                        </div>
+                    </div>
+
+
+                </div>
+
+                <div class="column medium-3">
+                    <div class="horizontalNav__featureFilter horizontalNav--filterOpen">Cottage Features</div>
+
+
+                    <div data-selector="featureFilter" class="horizontalNav__featureFilterPopUp horizontalNav--popUp hide">
+
+                        <div class='horizontalNav--filterSelect'>
+                            <a href="#" class="horizontalNav--filterClose">×</a>
+                            <h4>Features</h4>
+                        </div>
+
+                        <div class='horizontalNav__featureFilterContent horizontalNav--filterContent'>
+
+                            <div class='row large-collapse'>
+                                <div class='column small-9'>
+                                    <div class="horizontalNav__featureFilterColumnWrapper">
+                                        <div class="horizontalNav__featureFilterColumn">
+
+                                            <div class="horizontalNav__featureFilter--feature">
+                                                <input type="checkbox" name="filter-feature" id="filter-feature-6185" value="6185" data-name="Barbecue">
+                                                <label for="filter-feature-6185">Barbecue <span class="count">(4189)</span></label>
+                                            </div>
+
+                                            <div class="horizontalNav__featureFilter--feature">
+                                                <input type="checkbox" name="filter-feature" id="filter-feature-6410" value="6410" data-name="Golf Nearby">
+                                                <label for="filter-feature-6410">Golf Nearby <span class="count">(2812)</span></label>
+                                            </div>
+
+                                            <div class="horizontalNav__featureFilter--feature">
+                                                <input type="checkbox" name="filter-feature" id="filter-feature-9198" value="9198" data-name="Fishing Nearby">
+                                                <label for="filter-feature-9198">Fishing Nearby <span class="count">(1284)</span></label>
+                                            </div>
+
+                                            <div class="horizontalNav__featureFilter--feature">
+                                                <input type="checkbox" name="filter-feature" id="filter-feature-6948" value="6948" data-name="Wifi">
+                                                <label for="filter-feature-6948">Wifi <span class="count">(7672)</span></label>
+                                            </div>
+                                            
+                                            <div class="horizontalNav__featureFilter--feature">
+                                                <input type="checkbox" name="filter-feature" id="filter-feature-10313" value="10313" data-name="Grab Rails">
+                                                <label for="filter-feature-10313">Grab Rails <span class="count">(52)</span></label>
+                                            </div>
+
+                                            <div class="horizontalNav__featureFilter--feature">
+                                                <input type="checkbox" name="filter-feature" id="filter-feature-9737" value="9737" data-name="No Pets Allowed">
+                                                <label for="filter-feature-9737">No Pets Allowed <span class="count">(4741)</span></label>
+                                            </div>
+
+                                            <div class="horizontalNav__featureFilter--feature">
+                                                <input type="checkbox" name="filter-feature" id="filter-feature-10311" value="10311" data-name="Electric Bed">
+                                                <label for="filter-feature-10311">Electric Bed <span class="count">(15)</span></label>
+                                            </div>
+
+                                        </div>
+
+                                        <div class="horizontalNav__featureFilterColumn">
+
+                                            <div class="horizontalNav__featureFilter--feature">
+                                                <input type="checkbox" name="filter-feature" id="filter-feature-6185" value="6185" data-name="Barbecue">
+                                                <label for="filter-feature-6185">Barbecue <span class="count">(4189)</span></label>
+                                            </div>
+
+                                            <div class="horizontalNav__featureFilter--feature">
+                                                <input type="checkbox" name="filter-feature" id="filter-feature-6410" value="6410" data-name="Golf Nearby">
+                                                <label for="filter-feature-6410">Golf Nearby <span class="count">(2812)</span></label>
+                                            </div>
+
+                                            <div class="horizontalNav__featureFilter--feature">
+                                                <input type="checkbox" name="filter-feature" id="filter-feature-9198" value="9198" data-name="Fishing Nearby">
+                                                <label for="filter-feature-9198">Fishing Nearby <span class="count">(1284)</span></label>
+                                            </div>
+
+                                            <div class="horizontalNav__featureFilter--feature">
+                                                <input type="checkbox" name="filter-feature" id="filter-feature-6948" value="6948" data-name="Wifi">
+                                                <label for="filter-feature-6948">Wifi <span class="count">(7672)</span></label>
+                                            </div>
+                                            
+                                            <div class="horizontalNav__featureFilter--feature">
+                                                <input type="checkbox" name="filter-feature" id="filter-feature-10313" value="10313" data-name="Grab Rails">
+                                                <label for="filter-feature-10313">Grab Rails <span class="count">(52)</span></label>
+                                            </div>
+
+                                            <div class="horizontalNav__featureFilter--feature">
+                                                <input type="checkbox" name="filter-feature" id="filter-feature-9737" value="9737" data-name="No Pets Allowed">
+                                                <label for="filter-feature-9737">No Pets Allowed <span class="count">(4741)</span></label>
+                                            </div>
+
+                                            <div class="horizontalNav__featureFilter--feature">
+                                                <input type="checkbox" name="filter-feature" id="filter-feature-10311" value="10311" data-name="Electric Bed">
+                                                <label for="filter-feature-10311">Electric Bed <span class="count">(15)</span></label>
+                                            </div>
+
+                                        </div>
+
+                                        <div class="horizontalNav__featureFilterColumn">
+
+                                            <div class="horizontalNav__featureFilter--feature">
+                                                <input type="checkbox" name="filter-feature" id="filter-feature-6185" value="6185" data-name="Barbecue">
+                                                <label for="filter-feature-6185">Barbecue <span class="count">(4189)</span></label>
+                                            </div>
+
+                                            <div class="horizontalNav__featureFilter--feature">
+                                                <input type="checkbox" name="filter-feature" id="filter-feature-6410" value="6410" data-name="Golf Nearby">
+                                                <label for="filter-feature-6410">Golf Nearby <span class="count">(2812)</span></label>
+                                            </div>
+
+                                            <div class="horizontalNav__featureFilter--feature">
+                                                <input type="checkbox" name="filter-feature" id="filter-feature-9198" value="9198" data-name="Fishing Nearby">
+                                                <label for="filter-feature-9198">Fishing Nearby <span class="count">(1284)</span></label>
+                                            </div>
+
+                                            <div class="horizontalNav__featureFilter--feature">
+                                                <input type="checkbox" name="filter-feature" id="filter-feature-6948" value="6948" data-name="Wifi">
+                                                <label for="filter-feature-6948">Wifi <span class="count">(7672)</span></label>
+                                            </div>
+                                            
+                                            <div class="horizontalNav__featureFilter--feature">
+                                                <input type="checkbox" name="filter-feature" id="filter-feature-10313" value="10313" data-name="Grab Rails">
+                                                <label for="filter-feature-10313">Grab Rails <span class="count">(52)</span></label>
+                                            </div>
+
+                                            <div class="horizontalNav__featureFilter--feature">
+                                                <input type="checkbox" name="filter-feature" id="filter-feature-9737" value="9737" data-name="No Pets Allowed">
+                                                <label for="filter-feature-9737">No Pets Allowed <span class="count">(4741)</span></label>
+                                            </div>
+
+                                            <div class="horizontalNav__featureFilter--feature">
+                                                <input type="checkbox" name="filter-feature" id="filter-feature-10311" value="10311" data-name="Electric Bed">
+                                                <label for="filter-feature-10311">Electric Bed <span class="count">(15)</span></label>
+                                            </div>
+
+                                        </div>
+
+                                        <div class="horizontalNav__featureFilterColumn">
+
+                                            <div class="horizontalNav__featureFilter--feature">
+                                                <input type="checkbox" name="filter-feature" id="filter-feature-6185" value="6185" data-name="Barbecue">
+                                                <label for="filter-feature-6185">Barbecue <span class="count">(4189)</span></label>
+                                            </div>
+
+                                            <div class="horizontalNav__featureFilter--feature">
+                                                <input type="checkbox" name="filter-feature" id="filter-feature-6410" value="6410" data-name="Golf Nearby">
+                                                <label for="filter-feature-6410">Golf Nearby <span class="count">(2812)</span></label>
+                                            </div>
+
+                                            <div class="horizontalNav__featureFilter--feature">
+                                                <input type="checkbox" name="filter-feature" id="filter-feature-9198" value="9198" data-name="Fishing Nearby">
+                                                <label for="filter-feature-9198">Fishing Nearby <span class="count">(1284)</span></label>
+                                            </div>
+
+                                            <div class="horizontalNav__featureFilter--feature">
+                                                <input type="checkbox" name="filter-feature" id="filter-feature-6948" value="6948" data-name="Wifi">
+                                                <label for="filter-feature-6948">Wifi <span class="count">(7672)</span></label>
+                                            </div>
+                                            
+                                            <div class="horizontalNav__featureFilter--feature">
+                                                <input type="checkbox" name="filter-feature" id="filter-feature-10313" value="10313" data-name="Grab Rails">
+                                                <label for="filter-feature-10313">Grab Rails <span class="count">(52)</span></label>
+                                            </div>
+
+                                            <div class="horizontalNav__featureFilter--feature">
+                                                <input type="checkbox" name="filter-feature" id="filter-feature-9737" value="9737" data-name="No Pets Allowed">
+                                                <label for="filter-feature-9737">No Pets Allowed <span class="count">(4741)</span></label>
+                                            </div>
+
+                                            <div class="horizontalNav__featureFilter--feature">
+                                                <input type="checkbox" name="filter-feature" id="filter-feature-10311" value="10311" data-name="Electric Bed">
+                                                <label for="filter-feature-10311">Electric Bed <span class="count">(15)</span></label>
+                                            </div>
+
+                                        </div>
+
+                                        <div class="horizontalNav__featureFilterColumn">
+
+                                            <div class="horizontalNav__featureFilter--feature">
+                                                <input type="checkbox" name="filter-feature" id="filter-feature-6185" value="6185" data-name="Barbecue">
+                                                <label for="filter-feature-6185">Barbecue <span class="count">(4189)</span></label>
+                                            </div>
+
+                                            <div class="horizontalNav__featureFilter--feature">
+                                                <input type="checkbox" name="filter-feature" id="filter-feature-6410" value="6410" data-name="Golf Nearby">
+                                                <label for="filter-feature-6410">Golf Nearby <span class="count">(2812)</span></label>
+                                            </div>
+
+                                            <div class="horizontalNav__featureFilter--feature">
+                                                <input type="checkbox" name="filter-feature" id="filter-feature-9198" value="9198" data-name="Fishing Nearby">
+                                                <label for="filter-feature-9198">Fishing Nearby <span class="count">(1284)</span></label>
+                                            </div>
+
+                                            <div class="horizontalNav__featureFilter--feature">
+                                                <input type="checkbox" name="filter-feature" id="filter-feature-6948" value="6948" data-name="Wifi">
+                                                <label for="filter-feature-6948">Wifi <span class="count">(7672)</span></label>
+                                            </div>
+                                            
+                                            <div class="horizontalNav__featureFilter--feature">
+                                                <input type="checkbox" name="filter-feature" id="filter-feature-10313" value="10313" data-name="Grab Rails">
+                                                <label for="filter-feature-10313">Grab Rails <span class="count">(52)</span></label>
+                                            </div>
+
+                                            <div class="horizontalNav__featureFilter--feature">
+                                                <input type="checkbox" name="filter-feature" id="filter-feature-9737" value="9737" data-name="No Pets Allowed">
+                                                <label for="filter-feature-9737">No Pets Allowed <span class="count">(4741)</span></label>
+                                            </div>
+
+                                            <div class="horizontalNav__featureFilter--feature">
+                                                <input type="checkbox" name="filter-feature" id="filter-feature-10311" value="10311" data-name="Electric Bed">
+                                                <label for="filter-feature-10311">Electric Bed <span class="count">(15)</span></label>
+                                            </div>
+
+                                        </div>
+                                    </div>
+                                </div>
+                                
+                                <div class="column small-3">
+                                    <div class='horizontalNav__featureFilter--extraFeatures'>
+                                        <h4>Bedrooms</h4>
+                                        <select>
+                                            <option value="" selected="selected">Any</option>
+                                            <option value="1">1+ Bedroom/Studio</option>
+                                            <option value="2">2+ Bedrooms</option>
+                                            <option value="3">3+ Bedrooms</option>
+                                            <option value="4">4+ Bedrooms</option>
+                                            <option value="5">5+ Bedrooms</option>
+                                            <option value="6">6+ Bedrooms</option>
+                                        </select>
+
+                                        <h4>Bathrooms</h4>
+                                        <select>
+                                            <option value="" selected="selected">Any</option>
+                                            <option value="1">1+ Bathroom</option>
+                                            <option value="2">2+ Bathrooms</option>
+                                            <option value="3">3+ Bathrooms</option>
+                                            <option value="4">4+ Bathrooms</option>
+                                            <option value="5">5+ Bathrooms</option>
+                                            <option value="6">6+ Bathrooms</option>
+                                        </select>
+
+                                        <h4>Grading</h4>
+                                        <select>
+                                            <option value="" selected="selected">Any</option>
+                                            <option value="1">1+ Star</option>
+                                            <option value="2">2+ Stars</option>
+                                            <option value="3">3+ Stars</option>
+                                            <option value="4">4+ Stars</option>
+                                            <option value="5">5+ Stars</option>
+                                            <option value="6">6+ Stars</option>
+                                        </select>
+                                        <div class="horizontalNav__featureFilter--priceRange">
+                                            <h4>Price Range</h4><span id="priceSliderAmount"></span>
+                                            <div class="horizontalNav__featureFilter--priceRangewrapper">
+                                                <div id="priceSlider"></div>
+                                            </div>
+                                            <div class='horizontalNav__featureFilter--minMaxWrapper'>
+                                                <span class="horizontalNav__featureFilter--minMax" id="priceSliderMin"></span>
+                                                <span class="horizontalNav__featureFilter--minMax" id="priceSliderMax"></span>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+                            
+
+                        </div>
+
+                    </div>
+                </div>
+                
+
+            </div>
+
+
+    </div>
+
+
+    <!-- //////////// Handlebars Template Start /////////////// -->
+
+    <!--Polygon Selector-->
+    <script type="text/template" id="polygon-selector">
+
+        <div class="column medium-3">
+
+
+            <div class="horizontalNav__polygonFilter horizontalNav--filterOpen">{{this.summary.polygon}}</div>
+
+            <div data-selector="polygonFilter" class="horizontalNav__polygonFilterPopUp horizontalNav--popUp hide">
+
+                <div class='horizontalNav--filterSelect'>
+                    <a href="#" class="horizontalNav--filterClose">×</a>
+                    <div class="horizontalNav__polygonFilterBreadcrumb--wrapper">
+                        <h4>You're searching</h4>
+                        <ul class="horizontalNav__polygonFilterBreadcrumbs">
+                            <li>{{this.summary.polygon}}</li>
+                        </ul>
+                    </div>
+                </div>
+
+                <div class='horizontalNav__polygonFilterContent horizontalNav--filterContent'>
+                    <h3>Want to select a place in {{this.summary.polygon}}?</h3>
+                    <ul class='stack-4col horizontalNav__polygons--print'>
+                        
+                        {{#each this.filters}}
+
+                            {{#if_eq name 'region-filter'}}
+                                {{#each availableFilters}}
+                                    <li><a href='#'>{{name}} <span>({{count}})</span></a></li>
+                                {{/each}}
+                            {{/if_eq}}
+
+                        {{/each}}
+                    </ul>
+                </div>
+            
+            </div>
+
+        </div>
+
+        <div class="column medium-3">
+            <div class="horizontalNav__dateFilter horizontalNav--filterOpen">Dates</div>
+            
+            
+            <div data-selector="dateFilter" class="horizontalNav__dateFilterPopUp horizontalNav--popUp hide">
+
+                <div class='horizontalNav--filterSelect'>
+                    <a href="#" class="horizontalNav--filterClose">×</a>
+                    <div id='rhs-breadcrumb'>
+                        <h4>Your Start Date</h4>
+                    </div>
+                </div>
+
+                <div class='horizontalNav__dateFilterContent horizontalNav--filterContent'>
+                    <div class="row large-collapse horizontalNav__dateFilter--innerWrapper">
+
+                        <div class="column medium-8">
+                            <div id="date-picker"></div>
+                        </div>
+
+                        <div class="column medium-4">
+
+                            <div class="horizontalNav__dateFilter--extraFilters">
+                                <h4>Duration</h4>
+                                <select class="horizontalNav__dateFilter--rangeSelector">
+                                    <option value="2">2 nights</option>
+                                    <option value="3">3 nights</option>
+                                    <option value="4">4 nights</option>
+                                    <option value="7">7 nights</option>
+                                    <option value="14">14 nights</option>
+                                </select>
+                                <h4>Flexible Start Date</h4>
+                                <div class="horizontalNav__dateFilter--extraRangeFiltersWrapper">
+                                    <div class="horizontalNav__dateFilter--extraRangeFilters">
+                                        <input type="radio" id="dont" name="range" value="">
+                                        <label for="dont" class="fsb">I do not have specific dates</label>
+                                    </div>
+                                    <div class="horizontalNav__dateFilter--extraRangeFilters">
+                                        <input type="radio" id="exact_date" name="range" value="0">
+                                        <label for="exact_date" class="fsb">I want this exact date</label>
+                                    </div>
+                                    <div class="horizontalNav__dateFilter--extraRangeFilters">
+                                        <input type="radio" id="flexithree" name="range" value="3" checked="">
+                                        <label for="flexithree" class="fsb">I'm flexible +/- 3 days</label>
+                                    </div>
+                                    <div class="horizontalNav__dateFilter--extraRangeFilters">
+                                        <input type="radio" id="flexiseven" name="range" value="7">
+                                        <label for="flexiseven" class="fsb">I'm flexible +/- 7 days</label>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                    </div>
+                </div>
+
+            </div>
+
+        </div>
+
+        <div class="column medium-3">
+            <div class="horizontalNav__partyFilter horizontalNav--filterOpen">Guests</div>
+
+            <div data-selector="partyFilter" class="horizontalNav__partyFilterPopUp horizontalNav--popUp hide">
+
+                <div class='horizontalNav--filterSelect'>
+                    <a href="#" class="horizontalNav--filterClose">×</a>
+                    <h4>Guests</h4>
+                </div>
+
+                <div class='horizontalNav__partyFilterContent horizontalNav--filterContent'>
+
+
+                    <div class="row large-collapse align-middle horizontalNav__partyFilter--innerWrapper">
+
+                        <div class="column small-4">Aged 18+</div>
+
+                        <div class="column small-1">
+                            <button type="button" class="horizontalNav__partyFilter--minusOptions">-</button>
+                        </div>
+
+                        <div class="column small-6">
+                            <select name="adult">
+                                <option value="1">1 Adult</option>
+                                <option value="2" selected="selected">2 Adults</option>
+                                <option value="3">3 Adults</option>
+                                <option value="4">4 Adults</option>
+                                <option value="5">5 Adults</option>
+                                <option value="6">6 Adults</option>
+                                <option value="7">7 Adults</option>
+                                <option value="8">8 Adults</option>
+                                <option value="9">9 Adults</option>
+                                <option value="10">10 Adults</option>
+                                <option value="11">11 Adults</option>
+                                <option value="12">12 Adults</option>
+                                <option value="13">13 Adults</option>
+                                <option value="14">14 Adults</option>
+                                <option value="15">15 Adults</option>
+                                <option value="16">16 Adults</option>
+                                <option value="17">17 Adults</option>
+                                <option value="18">18 Adults</option>
+                                <option value="19">19 Adults</option>
+                                <option value="20">20 Adults</option>
+                                <option value="21">21 Adults</option>
+                                <option value="22">22 Adults</option>
+                                <option value="23">23 Adults</option>
+                                <option value="24">24 Adults</option>
+                                <option value="25">25 Adults</option>
+                                <option value="26">26 Adults</option>
+                                <option value="27">27 Adults</option>
+                                <option value="28">28 Adults</option>
+                                <option value="29">29 Adults</option>
+                                <option value="30">30 Adults</option>
+                            </select>
+                        </div>
+
+                        <div class="column small-1">
+                            <button type="button" class="horizontalNav__partyFilter--plusOptions">+</button>
+                        </div>
+
+                        
+
+                    </div>
+
+                    <div class="row large-collapse align-middle horizontalNav__partyFilter--innerWrapper">
+
+                        <div class="column small-4">Aged 2-17</div>
+
+                        <div class="column small-1">
+                            <button type="button" class="horizontalNav__partyFilter--minusOptions">-</button>
+                        </div>
+
+                        <div class="column small-6">
+                            <select id="" name="child">
+                                <option value="0" selected="selected">0 Children</option>
+                                <option value="1">1 Child</option>
+                                <option value="2">2 Children</option>
+                                <option value="3">3 Children</option>
+                                <option value="4">4 Children</option>
+                                <option value="5">5 Children</option>
+                                <option value="6">6 Children</option>
+                                <option value="7">7 Children</option>
+                                <option value="8">8 Children</option>
+                                <option value="9">9 Children</option>
+                                <option value="10">10 Children</option>
+                            </select>
+                        </div>
+
+                        <div class="column small-1">
+                            <button type="button" class="horizontalNav__partyFilter--plusOptions">+</button>
+                        </div>
+
+                    </div>
+
+                    <div class="row large-collapse align-middle horizontalNav__partyFilter--innerWrapper">
+
+                        <div class="column small-4">Under 2</div>
+
+                        <div class="column small-1">
+                            <button type="button" class="horizontalNav__partyFilter--minusOptions">-</button>
+                        </div>
+
+                        <div class="column small-6">
+                            <select id="" name="infant">
+                                <option value="0" selected="selected">0 Infants</option>
+                                <option value="1">1 Infant</option>
+                                <option value="2">2 Infants</option>
+                                <option value="3">3 Infants</option>
+                                <option value="4">4 Infants</option>
+                                <option value="5">5 Infants</option>
+                            </select>
+                        </div>
+
+                        <div class="column small-1">
+                            <button type="button" class="horizontalNav__partyFilter--plusOptions">+</button>
+                        </div>
+
+                    </div>
+
+                    <div class="row large-collapse align-middle horizontalNav__partyFilter--innerWrapper">
+
+                        <div class="column small-1 large-offset-4">
+                            <button type="button" class="horizontalNav__partyFilter--minusOptions">-</button>
+                        </div>
+
+                        <div class="column small-6">
+                            <select id="" name="pets">
+                                <option value="0" selected="selected">0 Pets</option>
+                                <option value="1">1 Pet</option>
+                                <option value="2">2 Pets</option>
+                                <option value="3">3 Pets</option>
+                            </select>
+                        </div>
+
+                        <div class="column small-1">
+                            <button type="button" class="horizontalNav__partyFilter--plusOptions">+</button>
+                        </div>
+
+                    </div>
+
+
+
+                </div>
+            </div>
+        </div>
+
+        <div class="column medium-3">
+            <div class="horizontalNav__featureFilter horizontalNav--filterOpen">Cottage Features</div>
+
+            <div data-selector="featureFilter" class="horizontalNav__featureFilterPopUp horizontalNav--popUp hide">
+
+                <div class='horizontalNav--filterSelect'>
+                    <a href="#" class="horizontalNav--filterClose">×</a>
+                    <h4>Features</h4>
+                </div>
+
+                <div class='horizontalNav__featureFilterContent horizontalNav--filterContent'>
+
+                    <div class='row large-collapse'>
+                        <div class='column small-9'>
+                            <div class="horizontalNav__featureFilterColumnWrapper">
+                                
+                                {{#each this.filters}}
+                                    {{#if_eq name 'feature-filter'}}
+                                        {{#grouped_each 5 availableFilters}}
+
+                                            <div class="horizontalNav__featureFilterColumn">
+
+                                            {{#each this}}
+                                            <div class="horizontalNav__featureFilter--feature">
+                                                <input type="checkbox" name="filter-feature" id="filter-feature-{{id}}" value="{{id}}" data-name="{{name}}">
+                                                <label for="filter-feature-{{id}}">{{name}} <span class="count">({{count}})</span></label>
+                                            </div>
+                                            {{/each}}
+                                        
+                                            </div>
+
+                                        {{/grouped_each}}
+                                    {{/if_eq}}
+                                {{/each}}
+
+                            </div>
+                        </div>
+                        
+                        <div class="column small-3">
+                            <div class='horizontalNav__featureFilter--extraFeatures'>
+                                
+                                <h4>Bedrooms</h4>
+
+                                <select>
+                                    <option value="" selected="selected">Any</option>
+                                    {{#each this.filters}}
+
+                                        {{#if_eq name 'bedroom-filter'}}
+                                            {{#each availableFilters}}
+                                                <option value="{{value}}">{{name}}</option>
+                                            {{/each}}
+                                        {{/if_eq}}
+
+                                    {{/each}}
+                                </select>
+
+
+                                <h4>Bathrooms</h4>
+
+                                <select>
+                                    <option value="" selected="selected">Any</option>
+                                    {{#each this.filters}}
+
+                                        {{#if_eq name 'bathroom-filter'}}
+                                            {{#each availableFilters}}
+                                                <option value="{{value}}">{{name}}</option>
+                                            {{/each}}
+                                        {{/if_eq}}
+
+                                    {{/each}}
+                                </select>
+
+                                <div class="horizontalNav__featureFilter--priceRange">
+                                    <h4>Price Range</h4><span id="priceSliderAmount"></span>
+                                    <div id="priceSlider"></div>
+                                    <div class='horizontalNav__featureFilter--minMaxWrapper'>
+                                        <span class="horizontalNav__featureFilter--minMax" id="priceSliderMin"></span>
+                                        <span class="horizontalNav__featureFilter--minMax" id="priceSliderMax"></span>
+                                    </div>
+                                </div>
+
+
+                            </div>
+                        </div>
+
+                    </div>
+                
+                </div>
+
+            </div>
+        </div>
+
+
+    </script>
+
+     <!--Feature Selector
+    <script type="text/template" id="feature-selector">
+
+        <div class="horizontalNav__featureFilter horizontalNav--filterOpen">Cottage Features</div>
+
+        <div class="horizontalNav__featureFilterPopUp horizontalNav--popUp hide">
+
+            <div class='horizontalNav--filterSelect'>
+                <a href="#" class="horizontalNav--filterClose">×</a>
+                <h4>Features</h4>
+            </div>
+
+            <div class='horizontalNav__featureFilterContent horizontalNav--filterContent'>
+
+                <div class='row large-collapse'>
+                    <div class='column small-9'>
+                        <div class="horizontalNav__featureFilterColumnWrapper">
+                            
+                            {{#each this.filters}}
+                                {{#if_eq name 'feature-filter'}}
+                                    {{#grouped_each 5 availableFilters}}
+
+                                        <div class="horizontalNav__featureFilterColumn">
+
+                                        {{#each this}}
+                                        <div class="horizontalNav__featureFilter--feature">
+                                            <input type="checkbox" name="filter-feature" id="filter-feature-{{id}}" value="{{id}}" data-name="{{name}}">
+                                            <label for="filter-feature-{{id}}">{{name}} <span class="count">({{count}})</span></label>
+                                        </div>
+                                        {{/each}}
+                                    
+                                        </div>
+
+                                    {{/grouped_each}}
+                                {{/if_eq}}
+                            {{/each}}
+
+                        </div>
+                    </div>
+                    
+                    <div class="column small-3">
+                        <div class='horizontalNav__featureFilter--extraFeatures'>
+                            
+                            <h4>Bedrooms</h4>
+
+                            <select>
+                                <option value="" selected="selected">Any</option>
+                                {{#each this.filters}}
+
+                                    {{#if_eq name 'bedroom-filter'}}
+                                        {{#each availableFilters}}
+                                            <option value="{{value}}">{{name}}</option>
+                                        {{/each}}
+                                    {{/if_eq}}
+
+                                {{/each}}
+                            </select>
+
+
+                            <h4>Bathrooms</h4>
+
+                            <select>
+                                <option value="" selected="selected">Any</option>
+                                {{#each this.filters}}
+
+                                    {{#if_eq name 'bathroom-filter'}}
+                                        {{#each availableFilters}}
+                                            <option value="{{value}}">{{name}}</option>
+                                        {{/each}}
+                                    {{/if_eq}}
+
+                                {{/each}}
+                            </select>
+
+                            <div class="horizontalNav__featureFilter--priceRange">
+                                <h4>Price Range</h4><span id="priceSliderAmount"></span>
+                                <div id="priceSlider"></div>
+                                <div class='horizontalNav__featureFilter--minMaxWrapper'>
+                                    <span class="horizontalNav__featureFilter--minMax" id="priceSliderMin"></span>
+                                    <span class="horizontalNav__featureFilter--minMax" id="priceSliderMax"></span>
+                                </div>
+                            </div>
+
+
+                        </div>
+                    </div>
+
+                </div>
+            
+            </div>
+
+        </div>
+
+    </script>-->
+    
+    <!-- //////////// Handlebars Template End /////////////// -->
+
+
+    <script>
+        var PolygonJsonResponse;
+
+
+        $(document).ready(function () {
+            $.ajax({
+                async: true,
+                dataType: 'json',
+                url: '/Json-pulled/YDNP-inside.json',
+                success: function (result) {
+                    PolygonJsonResponse = result;
+                    $("#horizontalNav").horizontalNav();
+                },
+                error: function (result) {
+
+                }
+            });
+        });
+
+    </script>
+
+
+    <script src="/Experimental%20Files/JS-files/markerclusterer.min.js"></script>
+    <script src="/Experimental%20Files/JS-files/markerSpiderfier.js"></script>
+    <script src="/Experimental%20Files/JS-files/navmaker.js"></script>
+
+</body>
+
+</html>

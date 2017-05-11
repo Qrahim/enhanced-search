@@ -1,0 +1,2646 @@
+{
+   "summary":{
+      "nights":"7",
+      "flexibility":"3",
+      "adults":"2",
+      "children":"0",
+      "infants":"0"
+   },
+   "results":[
+      {
+         "name":"The Tackroom",
+         "location":"Buckden, near Skipton, Yorkshire",
+         "guests":"2",
+         "beds":"1",
+         "bathrooms":"1",
+         "pets":"1",
+         "grading":4,
+         "url":"/cottages/the-tackroom-19414?adult=2&nights=7&range=3",
+         "ref":"19414",
+         "keyFeatures":[
+            "Wifi",
+            "Car parking on site",
+            "Pub within 1 mile"
+         ],
+         "shortDescription":"<p>Walks from the door. Set within the Yorkshire Dales National Park and tucked away in a quiet courtyard, this...</p>",
+         "pricing":{
+            "from":"£0",
+            "to":"£0"
+         },
+         "closestDate":"",
+         "closestPriceNow":"£268",
+         "closestPriceWas":"-",
+         "Latitude":"54.18996",
+         "Longitutde":"-2.090954",
+         "images":[
+            {
+               "imageURL":"https://img.chooseacottage.co.uk/property/216/400/216974.jpg",
+               "description":"Exterior | The Tackroom, Buckden, nr. Skipton",
+               "isPrimary":true
+            },
+            {
+               "imageURL":"https://img.chooseacottage.co.uk/property/836/400/836121.jpg",
+               "description":"Open plan living/dining room/kitchen | The Tackroom, Buckden, nr. Skipton",
+               "isPrimary":false
+            },
+            {
+               "imageURL":"https://img.chooseacottage.co.uk/property/216/400/216976.jpg",
+               "description":"Open plan living/dining room/kitchen | The Tackroom, Buckden, nr. Skipton",
+               "isPrimary":false
+            },
+            {
+               "imageURL":"https://img.chooseacottage.co.uk/property/470/400/470181.jpg",
+               "description":"Double bedroom | The Tackroom, Buckden, nr. Skipton",
+               "isPrimary":false
+            },
+            {
+               "imageURL":"https://img.chooseacottage.co.uk/property/836/400/836126.jpg",
+               "description":"Double bedroom | The Tackroom, Buckden, nr. Skipton",
+               "isPrimary":false
+            },
+            {
+               "imageURL":"https://img.chooseacottage.co.uk/property/877/400/877574.jpg",
+               "description":"Yorkshire Dales | Yorkshire | Duck Cottage, The Tackroom, Gargrave, near Skipto",
+               "isPrimary":false
+            },
+            {
+               "imageURL":"https://img.chooseacottage.co.uk/property/216/300/216974.jpg",
+               "description":"The Tackroom",
+               "isPrimary":false
+            }
+         ]
+      },
+      {
+        "name": "Monk's Cottage",
+        "location": "Threshfield, near Skipton, Yorkshire",
+        "guests": "2",
+        "beds": "1",
+        "bathrooms": "1",
+        "pets": "2",
+        "grading": 4,
+        "url": "/cottages/monks-cottage-uk2209?adult=2&nights=7&range=3",
+        "ref": "UK2209",
+        "keyFeatures": [
+          "Wifi",
+          "Car parking on site",
+          "Pub within 1 mile"
+        ],
+        "shortDescription": "<p>This beautiful, stone-built, Grade II listed detached cottage seamlessly combines old world charm with the...</p>",
+        "pricing": {
+          "from": "£345",
+          "to": "£797"
+        },
+        "closestDate": "",
+        "closestPriceNow": "£571",
+        "closestPriceWas": "-",
+        "Latitude": "54.067257",
+        "Longitutde": "-2.018148",
+        "images": [
+          {
+            "imageURL": "https://img.chooseacottage.co.uk/property/134/400/1340203.jpg",
+            "description": "Pretty stone-built, Grade II listed detached holiday home | Monk's Cottage, Threshfield, near Skipton",
+            "isPrimary": true
+          },
+          {
+            "imageURL": "https://img.chooseacottage.co.uk/property/134/400/1340204.jpg",
+            "description": "Charming open plan living space with wood burner | Monk's Cottage, Threshfield, near Skipton",
+            "isPrimary": false
+          },
+          {
+            "imageURL": "https://img.chooseacottage.co.uk/property/134/400/1340205.jpg",
+            "description": "Characterful open plan living space | Monk's Cottage, Threshfield, near Skipton",
+            "isPrimary": false
+          },
+          {
+            "imageURL": "https://img.chooseacottage.co.uk/property/134/400/1340206.jpg",
+            "description": "Warm and cosy open lan living space | Monk's Cottage, Threshfield, near Skipton",
+            "isPrimary": false
+          },
+          {
+            "imageURL": "https://img.chooseacottage.co.uk/property/134/400/1340207.jpg",
+            "description": "Open plan living space with beamed ceiling | Monk's Cottage, Threshfield, near Skipton",
+            "isPrimary": false
+          },
+          {
+            "imageURL": "https://img.chooseacottage.co.uk/property/134/400/1340208.jpg",
+            "description": "Open plan living space with gallried bedroom | Monk's Cottage, Threshfield, near Skipton",
+            "isPrimary": false
+          },
+          {
+            "imageURL": "https://img.chooseacottage.co.uk/property/134/400/1340209.jpg",
+            "description": "Well equioped kitchen area | Monk's Cottage, Threshfield, near Skipton",
+            "isPrimary": false
+          },
+          {
+            "imageURL": "https://img.chooseacottage.co.uk/property/134/400/1340210.jpg",
+            "description": "Comfortable double bed | Monk's Cottage, Threshfield, near Skipton",
+            "isPrimary": false
+          },
+          {
+            "imageURL": "https://img.chooseacottage.co.uk/property/134/400/1340211.jpg",
+            "description": "Comfy double bed | Monk's Cottage, Threshfield, near Skipton",
+            "isPrimary": false
+          },
+          {
+            "imageURL": "https://img.chooseacottage.co.uk/property/134/400/1340212.jpg",
+            "description": "Galleried style bedroom | Monk's Cottage, Threshfield, near Skipton",
+            "isPrimary": false
+          },
+          {
+            "imageURL": "https://img.chooseacottage.co.uk/property/134/400/1340213.jpg",
+            "description": "En-suite bathroom | Monk's Cottage, Threshfield, near Skipton",
+            "isPrimary": false
+          },
+          {
+            "imageURL": "https://img.chooseacottage.co.uk/property/134/300/1340203.jpg",
+            "description": "Monk's Cottage",
+            "isPrimary": false
+          }
+        ]
+      },
+      {
+         "name":"Sandhams",
+         "location":"Litton near Kettlewell",
+         "guests":"2",
+         "beds":"1",
+         "bathrooms":"1",
+         "pets":"0",
+         "grading":4,
+         "url":"/cottages/sandhams-dc4210?adult=2&nights=7&range=3",
+         "ref":"DC4210",
+         "keyFeatures":[
+            "Wifi",
+            "Car parking on site",
+            "Pub within 1 mile"
+         ],
+         "shortDescription":"<p>Occupying an idyllic site in beautiful and unspoilt Littondale, this superb first floor apartment located within a...</p>",
+         "pricing":{
+            "from":"£302",
+            "to":"£470"
+         },
+         "closestDate":"",
+         "closestPriceNow":"£386",
+         "closestPriceWas":"-",
+         "Latitude":"54.15799",
+         "Longitutde":"-2.132137",
+         "images":[
+            {
+               "imageURL":"https://img.chooseacottage.co.uk/property/962/400/962980.jpg",
+               "description":"Shower room | Sandhams - Stonelands Farmyard Cottages, Litton near Kettlewell",
+               "isPrimary":true
+            },
+            {
+               "imageURL":"https://img.chooseacottage.co.uk/property/671/400/671254.jpg",
+               "description":"Double bedroom | Sandhams, Litton near Kettlewell",
+               "isPrimary":false
+            },
+            {
+               "imageURL":"https://img.chooseacottage.co.uk/property/455/400/455342.jpg",
+               "description":"Swimming pool | Guildersbank, Litton near Kettlewell",
+               "isPrimary":false
+            },
+            {
+               "imageURL":"https://img.chooseacottage.co.uk/property/455/400/455375.jpg",
+               "description":"Exterior | Guildersbank, Litton near Kettlewell",
+               "isPrimary":false
+            },
+            {
+               "imageURL":"https://img.chooseacottage.co.uk/property/455/400/455387.jpg",
+               "description":"Exterior | Sandhams, Litton near Kettlewell",
+               "isPrimary":false
+            },
+            {
+               "imageURL":"https://img.chooseacottage.co.uk/property/455/400/455389.jpg",
+               "description":"Open plan living/dining room/kitchen | Sandhams, Litton near Kettlewell",
+               "isPrimary":false
+            },
+            {
+               "imageURL":"https://img.chooseacottage.co.uk/property/671/400/671253.jpg",
+               "description":"Open plan living/dining room/kitchen | Sandhams, Litton near Kettlewell",
+               "isPrimary":false
+            },
+            {
+               "imageURL":"https://img.chooseacottage.co.uk/property/550/400/550106.jpg",
+               "description":"Open plan living/dining room/kitchen | Guildersbank, Litton near Kettlewell",
+               "isPrimary":false
+            },
+            {
+               "imageURL":"https://img.chooseacottage.co.uk/property/619/400/619708.jpg",
+               "description":"Children's play area | Guildersbank, Litton near Kettlewell",
+               "isPrimary":false
+            },
+            {
+               "imageURL":"https://img.chooseacottage.co.uk/property/566/400/566441.jpg",
+               "description":"Exterior | Sandhams, Litton near Kettlewell",
+               "isPrimary":false
+            },
+            {
+               "imageURL":"https://img.chooseacottage.co.uk/property/619/400/619707.jpg",
+               "description":"Garden and grounds | Guildersbank, Litton near Kettlewell",
+               "isPrimary":false
+            },
+            {
+               "imageURL":"https://img.chooseacottage.co.uk/property/671/400/671330.jpg",
+               "description":"Swimming pool exterior | Elbeck, Litton near Kettlewell",
+               "isPrimary":false
+            },
+            {
+               "imageURL":"https://img.chooseacottage.co.uk/property/671/400/671331.jpg",
+               "description":"Complex from road | Elbeck, Litton near Kettlewell",
+               "isPrimary":false
+            },
+            {
+               "imageURL":"https://img.chooseacottage.co.uk/property/671/300/671254.jpg",
+               "description":"Sandhams",
+               "isPrimary":false
+            }
+         ]
+      },
+      {
+         "name":"Elbeck",
+         "location":"Litton near Kettlewell",
+         "guests":"2",
+         "beds":"1",
+         "bathrooms":"1",
+         "pets":"2",
+         "grading":4,
+         "url":"/cottages/elbeck-dc4211?adult=2&nights=7&range=3",
+         "ref":"DC4211",
+         "keyFeatures":[
+            "Wifi",
+            "Car parking on site",
+            "Pub within 1 mile"
+         ],
+         "shortDescription":"<p>Occupying an idyllic site in beautiful and unspoilt Littondale, this superb barn conversion offers very...</p>",
+         "pricing":{
+            "from":"£302",
+            "to":"£470"
+         },
+         "closestDate":"",
+         "closestPriceNow":"£386",
+         "closestPriceWas":"-",
+         "Latitude":"54.15799",
+         "Longitutde":"-2.132137",
+         "images":[
+            {
+               "imageURL":"https://img.chooseacottage.co.uk/property/566/400/566444.jpg",
+               "description":"Exterior | Elbeck, Litton near Kettlewell",
+               "isPrimary":true
+            },
+            {
+               "imageURL":"https://img.chooseacottage.co.uk/property/455/400/455342.jpg",
+               "description":"Swimming pool | Guildersbank, Litton near Kettlewell",
+               "isPrimary":false
+            },
+            {
+               "imageURL":"https://img.chooseacottage.co.uk/property/606/400/606520.jpg",
+               "description":"Exterior | Elbeck, Litton near Kettlewell",
+               "isPrimary":false
+            },
+            {
+               "imageURL":"https://img.chooseacottage.co.uk/property/566/400/566445.jpg",
+               "description":"Open plan living/dining room/kitchen | Elbeck, Litton near Kettlewell",
+               "isPrimary":false
+            },
+            {
+               "imageURL":"https://img.chooseacottage.co.uk/property/671/400/671308.jpg",
+               "description":"Open plan living/dining room/kitchen | Elbeck, Litton near Kettlewell",
+               "isPrimary":false
+            },
+            {
+               "imageURL":"https://img.chooseacottage.co.uk/property/671/400/671310.jpg",
+               "description":"Four Poster bedroom | Elbeck, Litton near Kettlewell",
+               "isPrimary":false
+            },
+            {
+               "imageURL":"https://img.chooseacottage.co.uk/property/671/400/671309.jpg",
+               "description":"Bathroom | Elbeck, Litton near Kettlewell",
+               "isPrimary":false
+            },
+            {
+               "imageURL":"https://img.chooseacottage.co.uk/property/671/400/671320.jpg",
+               "description":"View from property | Elbeck, Litton near Kettlewell",
+               "isPrimary":false
+            },
+            {
+               "imageURL":"https://img.chooseacottage.co.uk/property/455/400/455375.jpg",
+               "description":"Exterior | Guildersbank, Litton near Kettlewell",
+               "isPrimary":false
+            },
+            {
+               "imageURL":"https://img.chooseacottage.co.uk/property/619/400/619707.jpg",
+               "description":"Garden and grounds | Guildersbank, Litton near Kettlewell",
+               "isPrimary":false
+            },
+            {
+               "imageURL":"https://img.chooseacottage.co.uk/property/619/400/619708.jpg",
+               "description":"Children's play area | Guildersbank, Litton near Kettlewell",
+               "isPrimary":false
+            },
+            {
+               "imageURL":"https://img.chooseacottage.co.uk/property/550/400/550106.jpg",
+               "description":"Open plan living/dining room/kitchen | Guildersbank, Litton near Kettlewell",
+               "isPrimary":false
+            },
+            {
+               "imageURL":"https://img.chooseacottage.co.uk/property/671/400/671330.jpg",
+               "description":"Swimming pool exterior | Elbeck, Litton near Kettlewell",
+               "isPrimary":false
+            },
+            {
+               "imageURL":"https://img.chooseacottage.co.uk/property/671/400/671331.jpg",
+               "description":"Complex from road | Elbeck, Litton near Kettlewell",
+               "isPrimary":false
+            },
+            {
+               "imageURL":"https://img.chooseacottage.co.uk/property/566/300/566444.jpg",
+               "description":"Elbeck",
+               "isPrimary":false
+            }
+         ]
+      },
+      {
+         "name":"Halton Gill Cottage",
+         "location":"Halton Gill near Litton",
+         "guests":"2",
+         "beds":"1",
+         "bathrooms":"1",
+         "pets":"1",
+         "grading":4,
+         "url":"/cottages/halton-gill-cottage-dc4751?adult=2&nights=7&range=3",
+         "ref":"DC4751",
+         "keyFeatures":[
+            "Wifi",
+            "Car parking on site",
+            "Pub within 1 mile"
+         ],
+         "shortDescription":"<p>With lovely rural views over picturesque Upper Wharfedale, this property is ideal for exploring the beautiful...</p>",
+         "pricing":{
+            "from":"£276",
+            "to":"£478"
+         },
+         "closestDate":"",
+         "closestPriceNow":"£377",
+         "closestPriceWas":"-",
+         "Latitude":"54.185007",
+         "Longitutde":"-2.185686",
+         "images":[
+            {
+               "imageURL":"https://img.chooseacottage.co.uk/property/456/400/456827.jpg",
+               "description":"Exterior | Halton Gill Cottage, Halton Gill near Litton",
+               "isPrimary":true
+            },
+            {
+               "imageURL":"https://img.chooseacottage.co.uk/property/456/400/456830.jpg",
+               "description":"Open plan living/dining room/kitchen | Halton Gill Cottage, Halton Gill near Litton",
+               "isPrimary":false
+            },
+            {
+               "imageURL":"https://img.chooseacottage.co.uk/property/456/400/456840.jpg",
+               "description":"Kitchen | Halton Gill Cottage, Halton Gill near Litton",
+               "isPrimary":false
+            },
+            {
+               "imageURL":"https://img.chooseacottage.co.uk/property/770/400/770778.jpg",
+               "description":"Double bedroom | Halton Gill Cottage, Halton Gill near Litton",
+               "isPrimary":false
+            },
+            {
+               "imageURL":"https://img.chooseacottage.co.uk/property/877/400/877573.jpg",
+               "description":"Yorkshire Dales | Yorkshire",
+               "isPrimary":false
+            },
+            {
+               "imageURL":"https://img.chooseacottage.co.uk/property/877/400/877575.jpg",
+               "description":"Yorkshire Dales | Yorkshire",
+               "isPrimary":false
+            },
+            {
+               "imageURL":"https://img.chooseacottage.co.uk/property/456/300/456827.jpg",
+               "description":"Halton Gill Cottage",
+               "isPrimary":false
+            }
+         ]
+      },
+      {
+         "name":"The Old Smithy",
+         "location":"Buckden, near Skipton, Yorkshire",
+         "guests":"2",
+         "beds":"1",
+         "bathrooms":"1",
+         "pets":"1",
+         "grading":4,
+         "url":"/cottages/the-old-smithy-nt020019?adult=2&nights=7&range=3",
+         "ref":"NT020019",
+         "keyFeatures":[
+            "Wifi",
+            "Car parking on site",
+            "Pub within 1 mile"
+         ],
+         "shortDescription":"<p>National Trust Holiday Cottage. This cosy, single-storey holiday cottage, owned by...</p>",
+         "pricing":{
+            "from":"£561",
+            "to":"£882"
+         },
+         "closestDate":"",
+         "closestPriceNow":"£721.5",
+         "closestPriceWas":"-",
+         "Latitude":"54.190514",
+         "Longitutde":"-2.089926",
+         "images":[
+            {
+               "imageURL":"https://img.chooseacottage.co.uk/property/954/400/954566.jpg",
+               "description":"Exterior | The Old Smithy, Buckden, nr. Skipton",
+               "isPrimary":true
+            },
+            {
+               "imageURL":"https://img.chooseacottage.co.uk/property/954/400/954567.jpg",
+               "description":"Living room/dining room | The Old Smithy, Buckden, nr. Skipton",
+               "isPrimary":false
+            },
+            {
+               "imageURL":"https://img.chooseacottage.co.uk/property/954/400/954568.jpg",
+               "description":"Kitchen | The Old Smithy, Buckden, nr. Skipton",
+               "isPrimary":false
+            },
+            {
+               "imageURL":"https://img.chooseacottage.co.uk/property/954/400/954569.jpg",
+               "description":"Double bedroom | The Old Smithy, Buckden, nr. Skipton",
+               "isPrimary":false
+            },
+            {
+               "imageURL":"https://img.chooseacottage.co.uk/property/954/400/954570.jpg",
+               "description":"Bathroom | The Old Smithy, Buckden, nr. Skipton",
+               "isPrimary":false
+            },
+            {
+               "imageURL":"https://img.chooseacottage.co.uk/property/954/400/954571.jpg",
+               "description":"Exterior | The Old Smithy, Buckden, nr. Skipton",
+               "isPrimary":false
+            },
+            {
+               "imageURL":"https://img.chooseacottage.co.uk/property/954/300/954566.jpg",
+               "description":"The Old Smithy",
+               "isPrimary":false
+            }
+         ]
+      },
+      {
+         "name":"Honey Pot",
+         "location":"Litton near Kettlewell",
+         "guests":"2",
+         "beds":"1",
+         "bathrooms":"1",
+         "pets":"0",
+         "grading":4,
+         "url":"/cottages/honey-pot-dc4208?adult=2&nights=7&range=3",
+         "ref":"DC4208",
+         "keyFeatures":[
+            "Wifi",
+            "Car parking on site",
+            "Pub within 1 mile"
+         ],
+         "shortDescription":"<p>Occupying an idyllic site in beautiful and unspoilt Littondale, this superb apartment located within a converted barn...</p>",
+         "pricing":{
+            "from":"£302",
+            "to":"£470"
+         },
+         "closestDate":"",
+         "closestPriceNow":"£386",
+         "closestPriceWas":"-",
+         "Latitude":"54.157977",
+         "Longitutde":"-2.132133",
+         "images":[
+            {
+               "imageURL":"https://img.chooseacottage.co.uk/property/566/400/566426.jpg",
+               "description":"Four Poster bedroom | Honey Pot, Litton, Nr Kettlewell ",
+               "isPrimary":true
+            },
+            {
+               "imageURL":"https://img.chooseacottage.co.uk/property/550/400/550104.jpg",
+               "description":"Swimming pool | Honey Pot, Litton, Nr Kettlewell ",
+               "isPrimary":false
+            },
+            {
+               "imageURL":"https://img.chooseacottage.co.uk/property/455/400/455371.jpg",
+               "description":"Exterior | Honey Pot, Litton, Nr Kettlewell ",
+               "isPrimary":false
+            },
+            {
+               "imageURL":"https://img.chooseacottage.co.uk/property/455/400/455373.jpg",
+               "description":"Open plan living/dining room/kitchen | Honey Pot, Litton, Nr Kettlewell ",
+               "isPrimary":false
+            },
+            {
+               "imageURL":"https://img.chooseacottage.co.uk/property/550/400/550106.jpg",
+               "description":"Open plan living/dining room/kitchen | Guildersbank, Litton near Kettlewell",
+               "isPrimary":false
+            },
+            {
+               "imageURL":"https://img.chooseacottage.co.uk/property/566/400/566425.jpg",
+               "description":"Open plan living/dining room/kitchen | Honey Pot, Litton, Nr Kettlewell ",
+               "isPrimary":false
+            },
+            {
+               "imageURL":"https://img.chooseacottage.co.uk/property/822/400/822558.jpg",
+               "description":"Bathroom | Honey Pot, Litton, Nr Kettlewell ",
+               "isPrimary":false
+            },
+            {
+               "imageURL":"https://img.chooseacottage.co.uk/property/550/400/550105.jpg",
+               "description":"Exterior | Honey Pot, Litton, Nr Kettlewell ",
+               "isPrimary":false
+            },
+            {
+               "imageURL":"https://img.chooseacottage.co.uk/property/566/400/566427.jpg",
+               "description":"Exterior | Honey Pot, Litton, Nr Kettlewell ",
+               "isPrimary":false
+            },
+            {
+               "imageURL":"https://img.chooseacottage.co.uk/property/822/400/822559.jpg",
+               "description":"Football pitch | Honey Pot, Litton, Nr Kettlewell ",
+               "isPrimary":false
+            },
+            {
+               "imageURL":"https://img.chooseacottage.co.uk/property/619/400/619708.jpg",
+               "description":"Children's play area | Guildersbank, Litton near Kettlewell",
+               "isPrimary":false
+            },
+            {
+               "imageURL":"https://img.chooseacottage.co.uk/property/566/300/566426.jpg",
+               "description":"Honey Pot",
+               "isPrimary":false
+            }
+         ]
+      },
+      {
+         "name":"Spion Cop",
+         "location":"Litton near Kettlewell",
+         "guests":"2",
+         "beds":"1",
+         "bathrooms":"1",
+         "pets":"0",
+         "grading":4,
+         "url":"/cottages/spion-cop-dc4209?adult=2&nights=7&range=3",
+         "ref":"DC4209",
+         "keyFeatures":[
+            "Wifi",
+            "Car parking on site",
+            "Pub within 1 mile"
+         ],
+         "shortDescription":"<p>Occupying an idyllic site in beautiful and unspoilt Littondale, this superb first floor apartment located within a...</p>",
+         "pricing":{
+            "from":"£302",
+            "to":"£470"
+         },
+         "closestDate":"",
+         "closestPriceNow":"£386",
+         "closestPriceWas":"-",
+         "Latitude":"54.15799",
+         "Longitutde":"-2.132137",
+         "images":[
+            {
+               "imageURL":"https://img.chooseacottage.co.uk/property/455/400/455380.jpg",
+               "description":"Open plan living/dining room/kitchen | Spion Cop, Litton near Kettlewell",
+               "isPrimary":true
+            },
+            {
+               "imageURL":"https://img.chooseacottage.co.uk/property/455/400/455342.jpg",
+               "description":"Swimming pool | Guildersbank, Litton near Kettlewell",
+               "isPrimary":false
+            },
+            {
+               "imageURL":"https://img.chooseacottage.co.uk/property/455/400/455375.jpg",
+               "description":"Exterior | Guildersbank, Litton near Kettlewell",
+               "isPrimary":false
+            },
+            {
+               "imageURL":"https://img.chooseacottage.co.uk/property/550/400/550106.jpg",
+               "description":"Open plan living/dining room/kitchen | Guildersbank, Litton near Kettlewell",
+               "isPrimary":false
+            },
+            {
+               "imageURL":"https://img.chooseacottage.co.uk/property/455/400/455382.jpg",
+               "description":"Open plan living/dining room/kitchen | Spion Cop, Litton near Kettlewell",
+               "isPrimary":false
+            },
+            {
+               "imageURL":"https://img.chooseacottage.co.uk/property/455/400/455384.jpg",
+               "description":"Double bedroom | Spion Cop, Litton near Kettlewell",
+               "isPrimary":false
+            },
+            {
+               "imageURL":"https://img.chooseacottage.co.uk/property/671/400/671218.jpg",
+               "description":"Bathroom | Spion Cop, Litton near Kettlewell",
+               "isPrimary":false
+            },
+            {
+               "imageURL":"https://img.chooseacottage.co.uk/property/619/400/619708.jpg",
+               "description":"Children's play area | Guildersbank, Litton near Kettlewell",
+               "isPrimary":false
+            },
+            {
+               "imageURL":"https://img.chooseacottage.co.uk/property/619/400/619707.jpg",
+               "description":"Garden and grounds | Guildersbank, Litton near Kettlewell",
+               "isPrimary":false
+            },
+            {
+               "imageURL":"https://img.chooseacottage.co.uk/property/671/400/671330.jpg",
+               "description":"Swimming pool exterior | Elbeck, Litton near Kettlewell",
+               "isPrimary":false
+            },
+            {
+               "imageURL":"https://img.chooseacottage.co.uk/property/671/400/671331.jpg",
+               "description":"Complex from road | Elbeck, Litton near Kettlewell",
+               "isPrimary":false
+            },
+            {
+               "imageURL":"https://img.chooseacottage.co.uk/property/455/300/455380.jpg",
+               "description":"Spion Cop",
+               "isPrimary":false
+            }
+         ]
+      },
+      {
+         "name":"Arncliffe House Farm",
+         "location":"Starbotton near Kettlewell",
+         "guests":"4",
+         "beds":"2",
+         "bathrooms":"1",
+         "pets":"0",
+         "grading":4,
+         "url":"/cottages/arncliffe-house-farm-dc5102?adult=2&nights=7&range=3",
+         "ref":"DC5102",
+         "keyFeatures":[
+            "Wifi",
+            "Car parking on site",
+            "Pub within 1 mile"
+         ],
+         "shortDescription":"<p>This delightful property dates back over 200 years, offering beautifully presented accommodation with a wood-burner...</p>",
+         "pricing":{
+            "from":"£464",
+            "to":"£748"
+         },
+         "closestDate":"",
+         "closestPriceNow":"£606",
+         "closestPriceWas":"-",
+         "Latitude":"54.168906",
+         "Longitutde":"-2.073001",
+         "images":[
+            {
+               "imageURL":"https://img.chooseacottage.co.uk/property/457/400/457483.jpg",
+               "description":"Exterior | Arncliffe House Farm, Starbotton near Kettlewell",
+               "isPrimary":true
+            },
+            {
+               "imageURL":"https://img.chooseacottage.co.uk/property/457/400/457485.jpg",
+               "description":"Living room/dining room | Arncliffe House Farm, Starbotton near Kettlewell",
+               "isPrimary":false
+            },
+            {
+               "imageURL":"https://img.chooseacottage.co.uk/property/457/400/457487.jpg",
+               "description":"Living room | Arncliffe House Farm, Starbotton near Kettlewell",
+               "isPrimary":false
+            },
+            {
+               "imageURL":"https://img.chooseacottage.co.uk/property/457/400/457489.jpg",
+               "description":"Living room | Arncliffe House Farm, Starbotton near Kettlewell",
+               "isPrimary":false
+            },
+            {
+               "imageURL":"https://img.chooseacottage.co.uk/property/457/400/457490.jpg",
+               "description":"Double bedroom | Arncliffe House Farm, Starbotton near Kettlewell",
+               "isPrimary":false
+            },
+            {
+               "imageURL":"https://img.chooseacottage.co.uk/property/506/400/506826.jpg",
+               "description":"Double bedroom | Arncliffe House Farm, Starbotton near Kettlewell",
+               "isPrimary":false
+            },
+            {
+               "imageURL":"https://img.chooseacottage.co.uk/property/627/400/627772.jpg",
+               "description":"Twin bedroom | Arncliffe House Farm, Starbotton near Kettlewell",
+               "isPrimary":false
+            },
+            {
+               "imageURL":"https://img.chooseacottage.co.uk/property/627/400/627773.jpg",
+               "description":"Twin bedroom | Arncliffe House Farm, Starbotton near Kettlewell",
+               "isPrimary":false
+            },
+            {
+               "imageURL":"https://img.chooseacottage.co.uk/property/627/400/627774.jpg",
+               "description":"Bathroom | Arncliffe House Farm, Starbotton near Kettlewell",
+               "isPrimary":false
+            },
+            {
+               "imageURL":"https://img.chooseacottage.co.uk/property/627/400/627782.jpg",
+               "description":"Bathroom | Arncliffe House Farm, Starbotton near Kettlewell",
+               "isPrimary":false
+            },
+            {
+               "imageURL":"https://img.chooseacottage.co.uk/property/457/400/457492.jpg",
+               "description":"Garden | Arncliffe House Farm, Starbotton near Kettlewell",
+               "isPrimary":false
+            },
+            {
+               "imageURL":"https://img.chooseacottage.co.uk/property/457/300/457483.jpg",
+               "description":"Arncliffe House Farm",
+               "isPrimary":false
+            }
+         ]
+      },
+      {
+         "name":"Longdale Cottage",
+         "location":"Marsett near Hawes, Yorkshire",
+         "guests":"4",
+         "beds":"2",
+         "bathrooms":"1",
+         "pets":"2",
+         "grading":4,
+         "url":"/cottages/longdale-cottage-cc218139?adult=2&nights=7&range=3",
+         "ref":"CC218139",
+         "keyFeatures":[
+            "Wifi",
+            "Car parking on site",
+            "Pub within 1 mile"
+         ],
+         "shortDescription":"<p>Longdale Cottage is believed to be a former gamekeepers cottage on the shooting estate of William Grenfell 1st...</p>",
+         "pricing":{
+            "from":"£295",
+            "to":"£578"
+         },
+         "closestDate":"",
+         "closestPriceNow":"£436.5",
+         "closestPriceWas":"-",
+         "Latitude":"54.26081",
+         "Longitutde":"-2.154937",
+         "images":[
+            {
+               "imageURL":"https://img.chooseacottage.co.uk/property/876/400/876889.jpg",
+               "description":"Exterior | Longdale Cottage, Marsett near Hawes",
+               "isPrimary":true
+            },
+            {
+               "imageURL":"https://img.chooseacottage.co.uk/property/876/400/876890.jpg",
+               "description":"Living room | Longdale Cottage, Marsett near Hawes",
+               "isPrimary":false
+            },
+            {
+               "imageURL":"https://img.chooseacottage.co.uk/property/876/400/876891.jpg",
+               "description":"Living room | Longdale Cottage, Marsett near Hawes",
+               "isPrimary":false
+            },
+            {
+               "imageURL":"https://img.chooseacottage.co.uk/property/876/400/876892.jpg",
+               "description":"Dining Area | Longdale Cottage, Marsett near Hawes",
+               "isPrimary":false
+            },
+            {
+               "imageURL":"https://img.chooseacottage.co.uk/property/876/400/876859.jpg",
+               "description":"Kitchen | Longdale Cottage, Marsett near Hawes",
+               "isPrimary":false
+            },
+            {
+               "imageURL":"https://img.chooseacottage.co.uk/property/876/400/876900.jpg",
+               "description":"Kitchen | Longdale Cottage, Marsett near Hawes",
+               "isPrimary":false
+            },
+            {
+               "imageURL":"https://img.chooseacottage.co.uk/property/876/400/876901.jpg",
+               "description":"Double bedroom | Longdale Cottage, Marsett near Hawes",
+               "isPrimary":false
+            },
+            {
+               "imageURL":"https://img.chooseacottage.co.uk/property/876/400/876902.jpg",
+               "description":"Double bedroom | Longdale Cottage, Marsett near Hawes",
+               "isPrimary":false
+            },
+            {
+               "imageURL":"https://img.chooseacottage.co.uk/property/876/400/876903.jpg",
+               "description":"Twin bedroom | Longdale Cottage, Marsett near Hawes",
+               "isPrimary":false
+            },
+            {
+               "imageURL":"https://img.chooseacottage.co.uk/property/876/400/876904.jpg",
+               "description":"Shower room | Longdale Cottage, Marsett near Hawes",
+               "isPrimary":false
+            },
+            {
+               "imageURL":"https://img.chooseacottage.co.uk/property/876/400/876905.jpg",
+               "description":"Exterior | Longdale Cottage, Marsett near Hawes",
+               "isPrimary":false
+            },
+            {
+               "imageURL":"https://img.chooseacottage.co.uk/property/876/400/876906.jpg",
+               "description":"View | Longdale Cottage, Marsett near Hawes",
+               "isPrimary":false
+            },
+            {
+               "imageURL":"https://img.chooseacottage.co.uk/property/952/400/952400.jpg",
+               "description":"Lake Semerwater | GeneralDales, Yorkshire",
+               "isPrimary":false
+            },
+            {
+               "imageURL":"https://img.chooseacottage.co.uk/property/876/300/876889.jpg",
+               "description":"Longdale Cottage",
+               "isPrimary":false
+            }
+         ]
+      },
+      {
+         "name":"Tansy Close",
+         "location":"Litton near Kettlewell",
+         "guests":"4",
+         "beds":"2",
+         "bathrooms":"2",
+         "pets":"0",
+         "grading":4,
+         "url":"/cottages/tansy-close-dc4206?adult=2&nights=7&range=3",
+         "ref":"DC4206",
+         "keyFeatures":[
+            "Wifi",
+            "Car parking on site",
+            "Pub within 1 mile"
+         ],
+         "shortDescription":"<p>Occupying an idyllic site in beautiful and unspoilt Littondale, this superb barn conversion offers very...</p>",
+         "pricing":{
+            "from":"£504",
+            "to":"£964"
+         },
+         "closestDate":"",
+         "closestPriceNow":"£734",
+         "closestPriceWas":"-",
+         "Latitude":"54.15799",
+         "Longitutde":"-2.132137",
+         "images":[
+            {
+               "imageURL":"https://img.chooseacottage.co.uk/property/566/400/566407.jpg",
+               "description":"Comfortable open plan living space | Tansy Close - Stonelands Farmyard Cottages, Litton near Kettlewell",
+               "isPrimary":true
+            },
+            {
+               "imageURL":"https://img.chooseacottage.co.uk/property/455/400/455357.jpg",
+               "description":"Four Poster bedroom | Tansy Close, Litton near Kettlewell",
+               "isPrimary":false
+            },
+            {
+               "imageURL":"https://img.chooseacottage.co.uk/property/455/400/455342.jpg",
+               "description":"Swimming pool | Guildersbank, Litton near Kettlewell",
+               "isPrimary":false
+            },
+            {
+               "imageURL":"https://img.chooseacottage.co.uk/property/455/400/455354.jpg",
+               "description":"Open plan living/dining room/kitchen | Tansy Close, Litton near Kettlewell",
+               "isPrimary":false
+            },
+            {
+               "imageURL":"https://img.chooseacottage.co.uk/property/566/400/566406.jpg",
+               "description":"Dining area in open plan living space | Tansy Close - Stonelands Farmyard Cottages, Litton near Kettlewell",
+               "isPrimary":false
+            },
+            {
+               "imageURL":"https://img.chooseacottage.co.uk/property/134/400/1340501.jpg",
+               "description":"Open plan living space with well equipped kitchen area | Tansy Close - Stonelands Farmyard Cottages, Litton near Kettlewell",
+               "isPrimary":false
+            },
+            {
+               "imageURL":"https://img.chooseacottage.co.uk/property/619/400/619651.jpg",
+               "description":"Twin bedroom | Tansy Close, Litton near Kettlewell",
+               "isPrimary":false
+            },
+            {
+               "imageURL":"https://img.chooseacottage.co.uk/property/796/400/796021.jpg",
+               "description":"Shower room | Tansy Close, Litton near Kettlewell",
+               "isPrimary":false
+            },
+            {
+               "imageURL":"https://img.chooseacottage.co.uk/property/134/400/1340502.jpg",
+               "description":"Well presented bathroom | Tansy Close - Stonelands Farmyard Cottages, Litton near Kettlewell",
+               "isPrimary":false
+            },
+            {
+               "imageURL":"https://img.chooseacottage.co.uk/property/566/400/566408.jpg",
+               "description":"Exterior | Tansy Close, Litton near Kettlewell",
+               "isPrimary":false
+            },
+            {
+               "imageURL":"https://img.chooseacottage.co.uk/property/455/400/455352.jpg",
+               "description":"Exterior | Tansy Close, Litton, Nr Kettlewell",
+               "isPrimary":false
+            },
+            {
+               "imageURL":"https://img.chooseacottage.co.uk/property/619/400/619707.jpg",
+               "description":"Garden and grounds | Guildersbank, Litton near Kettlewell",
+               "isPrimary":false
+            },
+            {
+               "imageURL":"https://img.chooseacottage.co.uk/property/619/400/619708.jpg",
+               "description":"Children's play area | Guildersbank, Litton near Kettlewell",
+               "isPrimary":false
+            },
+            {
+               "imageURL":"https://img.chooseacottage.co.uk/property/552/400/552487.jpg",
+               "description":"Exterior | Tansy Close, Litton near Kettlewell",
+               "isPrimary":false
+            },
+            {
+               "imageURL":"https://img.chooseacottage.co.uk/property/455/300/455357.jpg",
+               "description":"Tansy Close",
+               "isPrimary":false
+            }
+         ]
+      },
+      {
+         "name":"Dale Head Cottage",
+         "location":"Buckden, near Skipton, YorkshireYorkshire",
+         "guests":"4",
+         "beds":"2",
+         "bathrooms":"1",
+         "pets":"0",
+         "grading":4,
+         "url":"/cottages/dale-head-cottage-uk2204?adult=2&nights=7&range=3",
+         "ref":"UK2204",
+         "keyFeatures":[
+            "Wifi",
+            "Car parking on site",
+            "Pub within 1 mile"
+         ],
+         "shortDescription":"<p>This cosy, semi-detached cottage at the foot of Buckden Pike, is set in the heart of the Yorkshire Dales National Park...</p>",
+         "pricing":{
+            "from":"£280",
+            "to":"£688"
+         },
+         "closestDate":"",
+         "closestPriceNow":"£484",
+         "closestPriceWas":"-",
+         "Latitude":"54.190514",
+         "Longitutde":"-2.089926",
+         "images":[
+            {
+               "imageURL":"https://img.chooseacottage.co.uk/property/133/400/1339942.jpg",
+               "description":"Exterior | Dale Head Cottage, Buckden, near Skipton",
+               "isPrimary":true
+            },
+            {
+               "imageURL":"https://img.chooseacottage.co.uk/property/133/400/1339944.jpg",
+               "description":"Cosy living room with wood burner | Dale Head Cottage, Buckden, near Skipton",
+               "isPrimary":false
+            },
+            {
+               "imageURL":"https://img.chooseacottage.co.uk/property/133/400/1339946.jpg",
+               "description":"Kitchen and dining area | Dale Head Cottage, Buckden, near Skipton",
+               "isPrimary":false
+            },
+            {
+               "imageURL":"https://img.chooseacottage.co.uk/property/133/400/1339947.jpg",
+               "description":"Bedroom with kingsize bed | Dale Head Cottage, Buckden, near Skipton",
+               "isPrimary":false
+            },
+            {
+               "imageURL":"https://img.chooseacottage.co.uk/property/133/400/1339948.jpg",
+               "description":"Bedroom with kingsize bed | Dale Head Cottage, Buckden, near Skipton",
+               "isPrimary":false
+            },
+            {
+               "imageURL":"https://img.chooseacottage.co.uk/property/133/400/1339949.jpg",
+               "description":"Twin bedroom | Dale Head Cottage, Buckden, near Skipton",
+               "isPrimary":false
+            },
+            {
+               "imageURL":"https://img.chooseacottage.co.uk/property/133/400/1339950.jpg",
+               "description":"Bathroom | Dale Head Cottage, Buckden, near Skipton",
+               "isPrimary":false
+            },
+            {
+               "imageURL":"https://img.chooseacottage.co.uk/property/133/400/1339951.jpg",
+               "description":"Bathroom | Dale Head Cottage, Buckden, near Skipton",
+               "isPrimary":false
+            },
+            {
+               "imageURL":"https://img.chooseacottage.co.uk/property/133/400/1339952.jpg",
+               "description":"Lawned garden  | Dale Head Cottage, Buckden, near Skipton",
+               "isPrimary":false
+            },
+            {
+               "imageURL":"https://img.chooseacottage.co.uk/property/133/300/1339942.jpg",
+               "description":"Dale Head Cottage",
+               "isPrimary":false
+            }
+         ]
+      },
+      {
+         "name":"Foss Gill",
+         "location":"Starbotton, near Skipton, Yorkshire",
+         "guests":"4",
+         "beds":"2",
+         "bathrooms":"1",
+         "pets":"2",
+         "grading":4,
+         "url":"/cottages/foss-gill-uk2218?adult=2&nights=7&range=3",
+         "ref":"UK2218",
+         "keyFeatures":[
+            "Wifi",
+            "Car parking on site",
+            "Pub within 1 mile"
+         ],
+         "shortDescription":"<p>Tucked away in the hamlet of Starbotton, this cottage provides comfortable accommodation with direct access to...</p>",
+         "pricing":{
+            "from":"£275",
+            "to":"£668"
+         },
+         "closestDate":"",
+         "closestPriceNow":"£471.5",
+         "closestPriceWas":"-",
+         "Latitude":"54.168957",
+         "Longitutde":"-2.072922",
+         "images":[
+            {
+               "imageURL":"https://img.chooseacottage.co.uk/property/134/400/1341790.jpg",
+               "description":"Exterior | Foss Gill, Starbotton, near Skipton",
+               "isPrimary":true
+            },
+            {
+               "imageURL":"https://img.chooseacottage.co.uk/property/134/400/1341791.jpg",
+               "description":"Living room | Foss Gill, Starbotton, near Skipton",
+               "isPrimary":false
+            },
+            {
+               "imageURL":"https://img.chooseacottage.co.uk/property/134/300/1341790.jpg",
+               "description":"Foss Gill",
+               "isPrimary":false
+            }
+         ]
+      },
+      {
+         "name":"Amber Cottage",
+         "location":"Oughtershaw, near Hawes, Yorkshire",
+         "guests":"4",
+         "beds":"2",
+         "bathrooms":"1",
+         "pets":"0",
+         "grading":4,
+         "url":"/cottages/amber-cottage-17975?adult=2&nights=7&range=3",
+         "ref":"17975",
+         "keyFeatures":[
+            "Wifi",
+            "Car parking on site",
+            "Pub within 1 mile"
+         ],
+         "shortDescription":"<p>This delightful cottage, circa 1732, is tucked away in a quiet hamlet set in the heart of the Yorkshire Dales...</p>",
+         "pricing":{
+            "from":"£284",
+            "to":"£639"
+         },
+         "closestDate":"",
+         "closestPriceNow":"£461.5",
+         "closestPriceWas":"-",
+         "Latitude":"54.22893",
+         "Longitutde":"-2.201054",
+         "images":[
+            {
+               "imageURL":"https://img.chooseacottage.co.uk/property/154/400/154369.jpg",
+               "description":"Exterior | Amber Cottage, Oughtershaw, nr. Hawes",
+               "isPrimary":true
+            },
+            {
+               "imageURL":"https://img.chooseacottage.co.uk/property/133/400/133093.jpg",
+               "description":"Living room | Amber Cottage, Oughtershaw, nr. Hawes",
+               "isPrimary":false
+            },
+            {
+               "imageURL":"https://img.chooseacottage.co.uk/property/133/400/133097.jpg",
+               "description":"Kitchen/diner | Amber Cottage, Oughtershaw, nr. Hawes",
+               "isPrimary":false
+            },
+            {
+               "imageURL":"https://img.chooseacottage.co.uk/property/133/400/133095.jpg",
+               "description":"Dining Area | Amber Cottage, Oughtershaw, nr. Hawes",
+               "isPrimary":false
+            },
+            {
+               "imageURL":"https://img.chooseacottage.co.uk/property/133/400/133099.jpg",
+               "description":"Double bedroom | Amber Cottage, Oughtershaw, nr. Hawes",
+               "isPrimary":false
+            },
+            {
+               "imageURL":"https://img.chooseacottage.co.uk/property/771/400/771752.jpg",
+               "description":"Twin bedroom | Amber Cottage, Oughtershaw, nr. Hawes",
+               "isPrimary":false
+            },
+            {
+               "imageURL":"https://img.chooseacottage.co.uk/property/771/400/771753.jpg",
+               "description":"Bathroom | Amber Cottage, Oughtershaw, nr. Hawes",
+               "isPrimary":false
+            },
+            {
+               "imageURL":"https://img.chooseacottage.co.uk/property/409/400/409330.jpg",
+               "description":"Sitting-out-area | Amber Cottage, Oughtershaw, nr. Hawes",
+               "isPrimary":false
+            },
+            {
+               "imageURL":"https://img.chooseacottage.co.uk/property/133/400/133103.jpg",
+               "description":"Surrounding area | Amber Cottage, Oughtershaw, nr. Hawes",
+               "isPrimary":false
+            },
+            {
+               "imageURL":"https://img.chooseacottage.co.uk/property/154/400/154370.jpg",
+               "description":"Garden | Amber Cottage, Oughtershaw, nr. Hawes",
+               "isPrimary":false
+            },
+            {
+               "imageURL":"https://img.chooseacottage.co.uk/property/154/300/154369.jpg",
+               "description":"Amber Cottage",
+               "isPrimary":false
+            }
+         ]
+      },
+      {
+         "name":"Dale View",
+         "location":"Buckden, near Skipton, YorkshireYorkshire",
+         "guests":"4",
+         "beds":"2",
+         "bathrooms":"1",
+         "pets":"0",
+         "grading":4,
+         "url":"/cottages/dale-view-18505?adult=2&nights=7&range=3",
+         "ref":"18505",
+         "keyFeatures":[
+            "Wifi",
+            "Car parking on site",
+            "Pub within 1 mile"
+         ],
+         "shortDescription":"<p>Set within the Dales National Park at the foot of Buckden Pike, this character cottage enjoys views over...</p>",
+         "pricing":{
+            "from":"£269",
+            "to":"£668"
+         },
+         "closestDate":"",
+         "closestPriceNow":"£468.5",
+         "closestPriceWas":"-",
+         "Latitude":"54.190514",
+         "Longitutde":"-2.089926",
+         "images":[
+            {
+               "imageURL":"https://img.chooseacottage.co.uk/property/127/400/1274511.jpg",
+               "description":"Pretty garden with wonderful view of the countryside | Dale View, Buckden, near Skipton",
+               "isPrimary":true
+            },
+            {
+               "imageURL":"https://img.chooseacottage.co.uk/property/470/400/470137.jpg",
+               "description":"Charming holiday home | Dale View, Buckden, near Skipton",
+               "isPrimary":false
+            },
+            {
+               "imageURL":"https://img.chooseacottage.co.uk/property/151/400/151176.jpg",
+               "description":"Warm and cosy living room | Dale View, Buckden, near Skipton",
+               "isPrimary":false
+            },
+            {
+               "imageURL":"https://img.chooseacottage.co.uk/property/151/400/151177.jpg",
+               "description":"Kitchen/diner | Dale View, Buckden, near Skipton",
+               "isPrimary":false
+            },
+            {
+               "imageURL":"https://img.chooseacottage.co.uk/property/552/400/552219.jpg",
+               "description":"Double bedroom | Dale View, Buckden, near Skipton",
+               "isPrimary":false
+            },
+            {
+               "imageURL":"https://img.chooseacottage.co.uk/property/552/400/552220.jpg",
+               "description":"Twin bedroom | Dale View, Buckden, near Skipton",
+               "isPrimary":false
+            },
+            {
+               "imageURL":"https://img.chooseacottage.co.uk/property/128/400/1284847.jpg",
+               "description":"Relaxing, bathroom | Dale View, Buckden, near Skipton",
+               "isPrimary":false
+            },
+            {
+               "imageURL":"https://img.chooseacottage.co.uk/property/552/400/552222.jpg",
+               "description":"Stairs | Dale View, Buckden, near Skipton",
+               "isPrimary":false
+            },
+            {
+               "imageURL":"https://img.chooseacottage.co.uk/property/127/400/1274510.jpg",
+               "description":"Outdoor eating area | Dale View, Buckden, near Skipton",
+               "isPrimary":false
+            },
+            {
+               "imageURL":"https://img.chooseacottage.co.uk/property/128/400/1284848.jpg",
+               "description":"Garden, pond, log storage | Dale View, Buckden, near Skipton",
+               "isPrimary":false
+            },
+            {
+               "imageURL":"https://img.chooseacottage.co.uk/property/127/400/1274512.jpg",
+               "description":"Upper Wharfedale | Dale View, Buckden, near Skipton",
+               "isPrimary":false
+            },
+            {
+               "imageURL":"https://img.chooseacottage.co.uk/property/127/300/1274511.jpg",
+               "description":"Dale View",
+               "isPrimary":false
+            }
+         ]
+      },
+      {
+         "name":"Coach House Cottage",
+         "location":"Buckden, Grassington, Yorkshire",
+         "guests":"4",
+         "beds":"2",
+         "bathrooms":"1",
+         "pets":"1",
+         "grading":4,
+         "url":"/cottages/coach-house-cottage-24053?adult=2&nights=7&range=3",
+         "ref":"24053",
+         "keyFeatures":[
+            "Wifi",
+            "Car parking on site",
+            "Pub within 1 mile"
+         ],
+         "shortDescription":"<p>This holiday cottage is tucked away in a quiet courtyard setting in the picturesque village of Buckden which is set in...</p>",
+         "pricing":{
+            "from":"£246",
+            "to":"£630"
+         },
+         "closestDate":"",
+         "closestPriceNow":"£438",
+         "closestPriceWas":"-",
+         "Latitude":"54.18996",
+         "Longitutde":"-2.090954",
+         "images":[
+            {
+               "imageURL":"https://img.chooseacottage.co.uk/property/333/400/333636.jpg",
+               "description":"Open plan living/dining room/kitchen | Coach House Cottage, Buckden, Grassington",
+               "isPrimary":true
+            },
+            {
+               "imageURL":"https://img.chooseacottage.co.uk/property/333/400/333635.jpg",
+               "description":"Exterior | Coach House Cottage, Buckden, Grassington",
+               "isPrimary":false
+            },
+            {
+               "imageURL":"https://img.chooseacottage.co.uk/property/333/400/333637.jpg",
+               "description":"Open plan living/dining room/kitchen | Coach House Cottage, Buckden, Grassington",
+               "isPrimary":false
+            },
+            {
+               "imageURL":"https://img.chooseacottage.co.uk/property/333/400/333638.jpg",
+               "description":"Double bedroom | Coach House Cottage, Buckden, Grassington",
+               "isPrimary":false
+            },
+            {
+               "imageURL":"https://img.chooseacottage.co.uk/property/521/400/521299.jpg",
+               "description":"Bunk bedroom | Coach House Cottage, Buckden, Grassington",
+               "isPrimary":false
+            },
+            {
+               "imageURL":"https://img.chooseacottage.co.uk/property/877/400/877573.jpg",
+               "description":"Yorkshire Dales | Yorkshire",
+               "isPrimary":false
+            },
+            {
+               "imageURL":"https://img.chooseacottage.co.uk/property/333/300/333636.jpg",
+               "description":"Coach House Cottage",
+               "isPrimary":false
+            }
+         ]
+      },
+      {
+         "name":"Wood's Barn",
+         "location":"Beckermonds, near Kettlewell, Yorkshire",
+         "guests":"6",
+         "beds":"3",
+         "bathrooms":"1",
+         "pets":"1",
+         "grading":4,
+         "url":"/cottages/woods-barn-29924?adult=2&nights=7&range=3",
+         "ref":"29924",
+         "keyFeatures":[
+            "Wifi",
+            "Car parking on site",
+            "Pub within 1 mile"
+         ],
+         "shortDescription":"<p>The beautiful hamlet of Beckermonds is positioned in the very heart of the Yorkshire Dales National Park. This...</p>",
+         "pricing":{
+            "from":"£306",
+            "to":"£773"
+         },
+         "closestDate":"",
+         "closestPriceNow":"£539.5",
+         "closestPriceWas":"-",
+         "Latitude":"54.218449",
+         "Longitutde":"-2.195233",
+         "images":[
+            {
+               "imageURL":"https://img.chooseacottage.co.uk/property/835/400/835126.jpg",
+               "description":"Exterior | Wood's Barn, Beckermonds, nr. Hawes",
+               "isPrimary":true
+            },
+            {
+               "imageURL":"https://img.chooseacottage.co.uk/property/835/400/835127.jpg",
+               "description":"Living room | Wood's Barn, Beckermonds, nr. Hawes",
+               "isPrimary":false
+            },
+            {
+               "imageURL":"https://img.chooseacottage.co.uk/property/835/400/835128.jpg",
+               "description":"Kitchen | Wood's Barn, Beckermonds, nr. Hawes",
+               "isPrimary":false
+            },
+            {
+               "imageURL":"https://img.chooseacottage.co.uk/property/835/400/835129.jpg",
+               "description":"Double bedroom | Wood's Barn, Beckermonds, nr. Hawes",
+               "isPrimary":false
+            },
+            {
+               "imageURL":"https://img.chooseacottage.co.uk/property/835/400/835130.jpg",
+               "description":"Double bedroom | Wood's Barn, Beckermonds, nr. Hawes",
+               "isPrimary":false
+            },
+            {
+               "imageURL":"https://img.chooseacottage.co.uk/property/835/400/835131.jpg",
+               "description":"Twin bedroom | Wood's Barn, Beckermonds, nr. Hawes",
+               "isPrimary":false
+            },
+            {
+               "imageURL":"https://img.chooseacottage.co.uk/property/835/400/835132.jpg",
+               "description":"Twin bedroom | Wood's Barn, Beckermonds, nr. Hawes",
+               "isPrimary":false
+            },
+            {
+               "imageURL":"https://img.chooseacottage.co.uk/property/835/400/835133.jpg",
+               "description":"Twin bedroom | Wood's Barn, Beckermonds, nr. Hawes",
+               "isPrimary":false
+            },
+            {
+               "imageURL":"https://img.chooseacottage.co.uk/property/835/400/835134.jpg",
+               "description":"Bathroom | Wood's Barn, Beckermonds, nr. Hawes",
+               "isPrimary":false
+            },
+            {
+               "imageURL":"https://img.chooseacottage.co.uk/property/835/400/835137.jpg",
+               "description":"Garden | Wood's Barn, Beckermonds, nr. Hawes",
+               "isPrimary":false
+            },
+            {
+               "imageURL":"https://img.chooseacottage.co.uk/property/835/400/835138.jpg",
+               "description":"Garden | Wood's Barn, Beckermonds, nr. Hawes",
+               "isPrimary":false
+            },
+            {
+               "imageURL":"https://img.chooseacottage.co.uk/property/835/300/835126.jpg",
+               "description":"Wood's Barn",
+               "isPrimary":false
+            }
+         ]
+      },
+      {
+         "name":"The Old Chapel",
+         "location":"Buckden",
+         "guests":"4",
+         "beds":"2",
+         "bathrooms":"1",
+         "pets":"2",
+         "grading":4,
+         "url":"/cottages/the-old-chapel-dc4148?adult=2&nights=7&range=3",
+         "ref":"DC4148",
+         "keyFeatures":[
+            "Wifi",
+            "Car parking on site",
+            "Pub within 1 mile"
+         ],
+         "shortDescription":"<p>Nestling along a quiet lane in the picturesque Upper Wharfedale village of Buckden in the heart of the Yorkshire...</p>",
+         "pricing":{
+            "from":"£415",
+            "to":"£668"
+         },
+         "closestDate":"",
+         "closestPriceNow":"£541.5",
+         "closestPriceWas":"-",
+         "Latitude":"54.190518",
+         "Longitutde":"-2.089913",
+         "images":[
+            {
+               "imageURL":"https://img.chooseacottage.co.uk/property/454/400/454901.jpg",
+               "description":"Exterior | The Old Chapel, Buckden",
+               "isPrimary":true
+            },
+            {
+               "imageURL":"https://img.chooseacottage.co.uk/property/627/400/627747.jpg",
+               "description":"Living room/dining room | The Old Chapel, Buckden",
+               "isPrimary":false
+            },
+            {
+               "imageURL":"https://img.chooseacottage.co.uk/property/627/400/627748.jpg",
+               "description":"Living room/dining room | The Old Chapel, Buckden",
+               "isPrimary":false
+            },
+            {
+               "imageURL":"https://img.chooseacottage.co.uk/property/627/400/627749.jpg",
+               "description":"Living room/dining room | The Old Chapel, Buckden",
+               "isPrimary":false
+            },
+            {
+               "imageURL":"https://img.chooseacottage.co.uk/property/627/400/627750.jpg",
+               "description":"Living room/dining room | The Old Chapel, Buckden",
+               "isPrimary":false
+            },
+            {
+               "imageURL":"https://img.chooseacottage.co.uk/property/454/400/454907.jpg",
+               "description":"Kitchen | The Old Chapel, Buckden",
+               "isPrimary":false
+            },
+            {
+               "imageURL":"https://img.chooseacottage.co.uk/property/454/400/454911.jpg",
+               "description":"Stairs | The Old Chapel, Buckden",
+               "isPrimary":false
+            },
+            {
+               "imageURL":"https://img.chooseacottage.co.uk/property/627/400/627751.jpg",
+               "description":"Double bedroom | The Old Chapel, Buckden",
+               "isPrimary":false
+            },
+            {
+               "imageURL":"https://img.chooseacottage.co.uk/property/627/400/627752.jpg",
+               "description":"Twin bedroom | The Old Chapel, Buckden",
+               "isPrimary":false
+            },
+            {
+               "imageURL":"https://img.chooseacottage.co.uk/property/627/400/627753.jpg",
+               "description":"Bathroom | The Old Chapel, Buckden",
+               "isPrimary":false
+            },
+            {
+               "imageURL":"https://img.chooseacottage.co.uk/property/474/400/474125.jpg",
+               "description":"Sitting-out-area | The Old Chapel, Buckden",
+               "isPrimary":false
+            },
+            {
+               "imageURL":"https://img.chooseacottage.co.uk/property/454/300/454901.jpg",
+               "description":"The Old Chapel",
+               "isPrimary":false
+            }
+         ]
+      },
+      {
+         "name":"Guildersbank",
+         "location":"Litton near Kettlewell",
+         "guests":"4",
+         "beds":"2",
+         "bathrooms":"2",
+         "pets":"2",
+         "grading":4,
+         "url":"/cottages/guildersbank-dc4207?adult=2&nights=7&range=3",
+         "ref":"DC4207",
+         "keyFeatures":[
+            "Wifi",
+            "Car parking on site",
+            "Pub within 1 mile"
+         ],
+         "shortDescription":"<p>Occupying an idyllic site in beautiful and unspoilt Littondale, this superb barn conversion offers very...</p>",
+         "pricing":{
+            "from":"£504",
+            "to":"£964"
+         },
+         "closestDate":"",
+         "closestPriceNow":"£734",
+         "closestPriceWas":"-",
+         "Latitude":"54.15799",
+         "Longitutde":"-2.132137",
+         "images":[
+            {
+               "imageURL":"https://img.chooseacottage.co.uk/property/552/400/552489.jpg",
+               "description":"Open plan living space | Guildersbank - Stonelands Farmyard Cottages, Litton near Kettlewell",
+               "isPrimary":true
+            },
+            {
+               "imageURL":"https://img.chooseacottage.co.uk/property/455/400/455342.jpg",
+               "description":"Swimming pool | Guildersbank, Litton near Kettlewell",
+               "isPrimary":false
+            },
+            {
+               "imageURL":"https://img.chooseacottage.co.uk/property/455/400/455375.jpg",
+               "description":"Exterior | Guildersbank, Litton near Kettlewell",
+               "isPrimary":false
+            },
+            {
+               "imageURL":"https://img.chooseacottage.co.uk/property/566/400/566412.jpg",
+               "description":"Open plan living space | Guildersbank - Stonelands Farmyard Cottages, Litton near Kettlewell",
+               "isPrimary":false
+            },
+            {
+               "imageURL":"https://img.chooseacottage.co.uk/property/619/400/619628.jpg",
+               "description":"Four Poster bedroom | Guildersbank, Litton near Kettlewell",
+               "isPrimary":false
+            },
+            {
+               "imageURL":"https://img.chooseacottage.co.uk/property/796/400/796028.jpg",
+               "description":"Single bedroom | Guildersbank, Litton near Kettlewell",
+               "isPrimary":false
+            },
+            {
+               "imageURL":"https://img.chooseacottage.co.uk/property/134/400/1340450.jpg",
+               "description":"Bathroom | Guildersbank - Stonelands Farmyard Cottages, Litton near Kettlewell",
+               "isPrimary":false
+            },
+            {
+               "imageURL":"https://img.chooseacottage.co.uk/property/566/400/566413.jpg",
+               "description":"Exterior | Guildersbank, Litton near Kettlewell",
+               "isPrimary":false
+            },
+            {
+               "imageURL":"https://img.chooseacottage.co.uk/property/796/400/796017.jpg",
+               "description":"Open plan living/dining room/kitchen | Guildersbank, Litton near Kettlewell",
+               "isPrimary":false
+            },
+            {
+               "imageURL":"https://img.chooseacottage.co.uk/property/619/400/619708.jpg",
+               "description":"Children's play area | Guildersbank, Litton near Kettlewell",
+               "isPrimary":false
+            },
+            {
+               "imageURL":"https://img.chooseacottage.co.uk/property/619/400/619707.jpg",
+               "description":"Garden and grounds | Guildersbank, Litton near Kettlewell",
+               "isPrimary":false
+            },
+            {
+               "imageURL":"https://img.chooseacottage.co.uk/property/552/300/552489.jpg",
+               "description":"Guildersbank",
+               "isPrimary":false
+            }
+         ]
+      },
+      {
+         "name":"Darnbrook Cottage",
+         "location":"Darnbrook, near Settle, Yorkshire",
+         "guests":"5",
+         "beds":"3",
+         "bathrooms":"1",
+         "pets":"0",
+         "grading":4,
+         "url":"/cottages/darnbrook-cottage-nt020020?adult=2&nights=7&range=3",
+         "ref":"NT020020",
+         "keyFeatures":[
+            "Wifi",
+            "Car parking on site",
+            "Pub within 1 mile"
+         ],
+         "shortDescription":"<p>National Trust Holiday Cottage. Nestled in the 3-dwelling hamlet of Darnbrook, at...</p>",
+         "pricing":{
+            "from":"£364",
+            "to":"£851"
+         },
+         "closestDate":"",
+         "closestPriceNow":"£607.5",
+         "closestPriceWas":"-",
+         "Latitude":"54.131927",
+         "Longitutde":"-2.157195",
+         "images":[
+            {
+               "imageURL":"https://img.chooseacottage.co.uk/property/959/400/959877.jpg",
+               "description":"Exterior | Darnbrook Cottage, Darnbrook, near Settle",
+               "isPrimary":true
+            },
+            {
+               "imageURL":"https://img.chooseacottage.co.uk/property/959/400/959878.jpg",
+               "description":"Beamed living/dining room with open fire | Darnbrook Cottage, Darnbrook, near Settle",
+               "isPrimary":false
+            },
+            {
+               "imageURL":"https://img.chooseacottage.co.uk/property/959/400/959879.jpg",
+               "description":"Beamed living room and dining area with open fire | Darnbrook Cottage, Darnbrook, near Settle",
+               "isPrimary":false
+            },
+            {
+               "imageURL":"https://img.chooseacottage.co.uk/property/959/400/959880.jpg",
+               "description":"Beamed kitchen | Darnbrook Cottage, Darnbrook, near Settle",
+               "isPrimary":false
+            },
+            {
+               "imageURL":"https://img.chooseacottage.co.uk/property/959/400/959881.jpg",
+               "description":"Double bedroom | Darnbrook Cottage, Darnbrook, near Settle",
+               "isPrimary":false
+            },
+            {
+               "imageURL":"https://img.chooseacottage.co.uk/property/959/400/959882.jpg",
+               "description":"Double bedroom | Darnbrook Cottage, Darnbrook, near Settle",
+               "isPrimary":false
+            },
+            {
+               "imageURL":"https://img.chooseacottage.co.uk/property/959/400/959883.jpg",
+               "description":"Single bedroom | Darnbrook Cottage, Darnbrook, near Settle",
+               "isPrimary":false
+            },
+            {
+               "imageURL":"https://img.chooseacottage.co.uk/property/959/400/959884.jpg",
+               "description":"Bathroom | Darnbrook Cottage, Darnbrook, near Settle",
+               "isPrimary":false
+            },
+            {
+               "imageURL":"https://img.chooseacottage.co.uk/property/959/400/959885.jpg",
+               "description":"Sitting out area with views of surrounding area | Darnbrook Cottage, Darnbrook, near Settle",
+               "isPrimary":false
+            },
+            {
+               "imageURL":"https://img.chooseacottage.co.uk/property/959/400/959886.jpg",
+               "description":"Garden with view of Malham Moor | Darnbrook Cottage, Darnbrook, near Settle",
+               "isPrimary":false
+            },
+            {
+               "imageURL":"https://img.chooseacottage.co.uk/property/959/400/959887.jpg",
+               "description":"Drive lead to the property | Darnbrook Cottage, Darnbrook, near Settle",
+               "isPrimary":false
+            },
+            {
+               "imageURL":"https://img.chooseacottage.co.uk/property/959/300/959877.jpg",
+               "description":"Darnbrook Cottage",
+               "isPrimary":false
+            }
+         ]
+      },
+      {
+         "name":"Skirfare",
+         "location":"Litton near Kettlewell",
+         "guests":"6",
+         "beds":"3",
+         "bathrooms":"1",
+         "pets":"2",
+         "grading":4,
+         "url":"/cottages/skirfare-dc4204?adult=2&nights=7&range=3",
+         "ref":"DC4204",
+         "keyFeatures":[
+            "Wifi",
+            "Car parking on site",
+            "Pub within 1 mile"
+         ],
+         "shortDescription":"<p>Occupying an idyllic site in beautiful and unspoilt Littondale, this fantastic detached cottage offers very...</p>",
+         "pricing":{
+            "from":"£546",
+            "to":"£1030"
+         },
+         "closestDate":"",
+         "closestPriceNow":"£788",
+         "closestPriceWas":"-",
+         "Latitude":"54.15799",
+         "Longitutde":"-2.132137",
+         "images":[
+            {
+               "imageURL":"https://img.chooseacottage.co.uk/property/455/400/455342.jpg",
+               "description":"Swimming pool | Guildersbank, Litton near Kettlewell",
+               "isPrimary":true
+            },
+            {
+               "imageURL":"https://img.chooseacottage.co.uk/property/455/400/455375.jpg",
+               "description":"Exterior | Guildersbank, Litton near Kettlewell",
+               "isPrimary":false
+            },
+            {
+               "imageURL":"https://img.chooseacottage.co.uk/property/619/400/619706.jpg",
+               "description":"Living room | Skirfare, Litton near Kettlewell",
+               "isPrimary":false
+            },
+            {
+               "imageURL":"https://img.chooseacottage.co.uk/property/455/400/455339.jpg",
+               "description":"Dining room | Skirfare, Litton near Kettlewell",
+               "isPrimary":false
+            },
+            {
+               "imageURL":"https://img.chooseacottage.co.uk/property/796/400/796038.jpg",
+               "description":"Kitchen | Skirfare, Litton near Kettlewell",
+               "isPrimary":false
+            },
+            {
+               "imageURL":"https://img.chooseacottage.co.uk/property/796/400/796039.jpg",
+               "description":"Kitchen | Skirfare, Litton near Kettlewell",
+               "isPrimary":false
+            },
+            {
+               "imageURL":"https://img.chooseacottage.co.uk/property/550/400/550106.jpg",
+               "description":"Open plan living/dining room/kitchen | Guildersbank, Litton near Kettlewell",
+               "isPrimary":false
+            },
+            {
+               "imageURL":"https://img.chooseacottage.co.uk/property/566/400/566375.jpg",
+               "description":"Double bedroom | Skirfare, Litton near Kettlewell",
+               "isPrimary":false
+            },
+            {
+               "imageURL":"https://img.chooseacottage.co.uk/property/566/400/566376.jpg",
+               "description":"Twin bedroom | Skirfare, Litton near Kettlewell",
+               "isPrimary":false
+            },
+            {
+               "imageURL":"https://img.chooseacottage.co.uk/property/455/400/455340.jpg",
+               "description":"Bathroom | Skirfare, Litton near Kettlewell",
+               "isPrimary":false
+            },
+            {
+               "imageURL":"https://img.chooseacottage.co.uk/property/619/400/619707.jpg",
+               "description":"Garden and grounds | Guildersbank, Litton near Kettlewell",
+               "isPrimary":false
+            },
+            {
+               "imageURL":"https://img.chooseacottage.co.uk/property/566/400/566374.jpg",
+               "description":"Double bedroom | Skirfare, Litton near Kettlewell",
+               "isPrimary":false
+            },
+            {
+               "imageURL":"https://img.chooseacottage.co.uk/property/566/400/566377.jpg",
+               "description":"Exterior | Skirfare, Litton near Kettlewell",
+               "isPrimary":false
+            },
+            {
+               "imageURL":"https://img.chooseacottage.co.uk/property/619/400/619708.jpg",
+               "description":"Children's play area | Guildersbank, Litton near Kettlewell",
+               "isPrimary":false
+            },
+            {
+               "imageURL":"https://img.chooseacottage.co.uk/property/796/400/796037.jpg",
+               "description":"Dining room | Skirfare, Litton near Kettlewell",
+               "isPrimary":false
+            },
+            {
+               "imageURL":"https://img.chooseacottage.co.uk/property/455/300/455342.jpg",
+               "description":"Skirfare",
+               "isPrimary":false
+            }
+         ]
+      },
+      {
+         "name":"Nether Hesleden Cottage",
+         "location":"Litton, near Grassington, Yorkshire",
+         "guests":"6",
+         "beds":"3",
+         "bathrooms":"2",
+         "pets":"2",
+         "grading":4,
+         "url":"/cottages/nether-hesleden-cottage-uk2174?adult=2&nights=7&range=3",
+         "ref":"UK2174",
+         "keyFeatures":[
+            "Wifi",
+            "Car parking on site",
+            "Pub within 1 mile"
+         ],
+         "shortDescription":"<p>Set in the heart of the Yorkshire Dales National Park, amidst the magnificent scenery of Upper Littondale,...</p>",
+         "pricing":{
+            "from":"£415",
+            "to":"£1074"
+         },
+         "closestDate":"",
+         "closestPriceNow":"£744.5",
+         "closestPriceWas":"-",
+         "Latitude":"54.167622",
+         "Longitutde":"-2.174087",
+         "images":[
+            {
+               "imageURL":"https://img.chooseacottage.co.uk/property/132/400/1320015.jpg",
+               "description":"Semi-detached, character holiday home | Nether Hesleden Cottage, Litton, near Grassington",
+               "isPrimary":true
+            },
+            {
+               "imageURL":"https://img.chooseacottage.co.uk/property/132/400/1320016.jpg",
+               "description":"Cosy, characterful living room | Nether Hesleden Cottage, Litton, near Grassington",
+               "isPrimary":false
+            },
+            {
+               "imageURL":"https://img.chooseacottage.co.uk/property/132/400/1320018.jpg",
+               "description":"Comfortable living room with wood burner | Nether Hesleden Cottage, Litton, near Grassington",
+               "isPrimary":false
+            },
+            {
+               "imageURL":"https://img.chooseacottage.co.uk/property/132/400/1320019.jpg",
+               "description":"Comfy living room | Nether Hesleden Cottage, Litton, near Grassington",
+               "isPrimary":false
+            },
+            {
+               "imageURL":"https://img.chooseacottage.co.uk/property/132/400/1320020.jpg",
+               "description":"Living room with character, at Christmas | Nether Hesleden Cottage, Litton, near Grassington",
+               "isPrimary":false
+            },
+            {
+               "imageURL":"https://img.chooseacottage.co.uk/property/132/400/1320021.jpg",
+               "description":"Spacious master bedroom with super king sized bed, bath and en-suite | Nether Hesleden Cottage, Litton, near Grassington",
+               "isPrimary":false
+            },
+            {
+               "imageURL":"https://img.chooseacottage.co.uk/property/132/400/1320022.jpg",
+               "description":"Comfortable double bedroom | Nether Hesleden Cottage, Litton, near Grassington",
+               "isPrimary":false
+            },
+            {
+               "imageURL":"https://img.chooseacottage.co.uk/property/132/400/1320023.jpg",
+               "description":"Cosy twin bedroom | Nether Hesleden Cottage, Litton, near Grassington",
+               "isPrimary":false
+            },
+            {
+               "imageURL":"https://img.chooseacottage.co.uk/property/132/400/1320024.jpg",
+               "description":"Stairs | Nether Hesleden Cottage, Litton, near Grassington",
+               "isPrimary":false
+            },
+            {
+               "imageURL":"https://img.chooseacottage.co.uk/property/132/300/1320015.jpg",
+               "description":"Nether Hesleden Cottage",
+               "isPrimary":false
+            }
+         ]
+      },
+      {
+         "name":"Roselber",
+         "location":"Litton near Kettlewell",
+         "guests":"6",
+         "beds":"2",
+         "bathrooms":"2",
+         "pets":"0",
+         "grading":4,
+         "url":"/cottages/roselber-dc4205?adult=2&nights=7&range=3",
+         "ref":"DC4205",
+         "keyFeatures":[
+            "Wifi",
+            "Car parking on site",
+            "Pub within 1 mile"
+         ],
+         "shortDescription":"<p>Occupying an idyllic site in beautiful and unspoilt Littondale, this superb barn conversion offers very...</p>",
+         "pricing":{
+            "from":"£546",
+            "to":"£1030"
+         },
+         "closestDate":"",
+         "closestPriceNow":"£788",
+         "closestPriceWas":"-",
+         "Latitude":"54.15799",
+         "Longitutde":"-2.132137",
+         "images":[
+            {
+               "imageURL":"https://img.chooseacottage.co.uk/property/455/400/455344.jpg",
+               "description":"Exterior | Roselber, Litton near Kettlewell",
+               "isPrimary":true
+            },
+            {
+               "imageURL":"https://img.chooseacottage.co.uk/property/455/400/455342.jpg",
+               "description":"Swimming pool | Guildersbank, Litton near Kettlewell",
+               "isPrimary":false
+            },
+            {
+               "imageURL":"https://img.chooseacottage.co.uk/property/455/400/455346.jpg",
+               "description":"Open plan living/dining room/kitchen | Roselber, Litton near Kettlewell",
+               "isPrimary":false
+            },
+            {
+               "imageURL":"https://img.chooseacottage.co.uk/property/455/400/455350.jpg",
+               "description":"Open plan living/dining room/kitchen | Roselber, Litton near Kettlewell",
+               "isPrimary":false
+            },
+            {
+               "imageURL":"https://img.chooseacottage.co.uk/property/622/400/622115.jpg",
+               "description":"Open plan living/dining room/kitchen | Roselber, Litton near Kettlewell",
+               "isPrimary":false
+            },
+            {
+               "imageURL":"https://img.chooseacottage.co.uk/property/671/400/671190.jpg",
+               "description":"Four Poster bedroom | Roselber, Litton near Kettlewell",
+               "isPrimary":false
+            },
+            {
+               "imageURL":"https://img.chooseacottage.co.uk/property/671/400/671191.jpg",
+               "description":"En-suite | Roselber, Litton near Kettlewell",
+               "isPrimary":false
+            },
+            {
+               "imageURL":"https://img.chooseacottage.co.uk/property/671/400/671192.jpg",
+               "description":"Bedroom | Roselber, Litton near Kettlewell",
+               "isPrimary":false
+            },
+            {
+               "imageURL":"https://img.chooseacottage.co.uk/property/671/400/671193.jpg",
+               "description":"Bedroom | Roselber, Litton near Kettlewell",
+               "isPrimary":false
+            },
+            {
+               "imageURL":"https://img.chooseacottage.co.uk/property/671/400/671194.jpg",
+               "description":"Bathroom | Roselber, Litton near Kettlewell",
+               "isPrimary":false
+            },
+            {
+               "imageURL":"https://img.chooseacottage.co.uk/property/796/400/796019.jpg",
+               "description":"Bathroom | Roselber, Litton near Kettlewell",
+               "isPrimary":false
+            },
+            {
+               "imageURL":"https://img.chooseacottage.co.uk/property/552/400/552487.jpg",
+               "description":"Exterior | Tansy Close, Litton near Kettlewell",
+               "isPrimary":false
+            },
+            {
+               "imageURL":"https://img.chooseacottage.co.uk/property/566/400/566401.jpg",
+               "description":"Exterior | Roselber, Litton near Kettlewell",
+               "isPrimary":false
+            },
+            {
+               "imageURL":"https://img.chooseacottage.co.uk/property/619/400/619707.jpg",
+               "description":"Garden and grounds | Guildersbank, Litton near Kettlewell",
+               "isPrimary":false
+            },
+            {
+               "imageURL":"https://img.chooseacottage.co.uk/property/619/400/619708.jpg",
+               "description":"Children's play area | Guildersbank, Litton near Kettlewell",
+               "isPrimary":false
+            },
+            {
+               "imageURL":"https://img.chooseacottage.co.uk/property/550/400/550106.jpg",
+               "description":"Open plan living/dining room/kitchen | Guildersbank, Litton near Kettlewell",
+               "isPrimary":false
+            },
+            {
+               "imageURL":"https://img.chooseacottage.co.uk/property/671/400/671330.jpg",
+               "description":"Swimming pool exterior | Elbeck, Litton near Kettlewell",
+               "isPrimary":false
+            },
+            {
+               "imageURL":"https://img.chooseacottage.co.uk/property/671/400/671331.jpg",
+               "description":"Complex from road | Elbeck, Litton near Kettlewell",
+               "isPrimary":false
+            },
+            {
+               "imageURL":"https://img.chooseacottage.co.uk/property/455/300/455344.jpg",
+               "description":"Roselber",
+               "isPrimary":false
+            }
+         ]
+      },
+      {
+         "name":"East House Farm",
+         "location":"Beckermonds, near Kettlewell, Yorkshire",
+         "guests":"6",
+         "beds":"3",
+         "bathrooms":"2",
+         "pets":"2",
+         "grading":4,
+         "url":"/cottages/east-house-farm-uk2213?adult=2&nights=7&range=3",
+         "ref":"UK2213",
+         "keyFeatures":[
+            "Wifi",
+            "Car parking on site",
+            "Pub within 1 mile"
+         ],
+         "shortDescription":"<p>For those who love the countryside this holiday home is set in an idyllic rural location, where you can still see...</p>",
+         "pricing":{
+            "from":"£420",
+            "to":"£1078"
+         },
+         "closestDate":"",
+         "closestPriceNow":"£749",
+         "closestPriceWas":"-",
+         "Latitude":"54.218105",
+         "Longitutde":"-2.195049",
+         "images":[
+            {
+               "imageURL":"/assets/no-img.png",
+               "description":"East House Farm",
+               "isPrimary":true
+            }
+         ]
+      },
+      {
+         "name":"Angram Farmhouse",
+         "location":"Halton Gill, near Litton",
+         "guests":"7",
+         "beds":"4",
+         "bathrooms":"2",
+         "pets":"0",
+         "grading":4,
+         "url":"/cottages/angram-farmhouse-dc5230?adult=2&nights=7&range=3",
+         "ref":"DC5230",
+         "keyFeatures":[
+            "Wifi",
+            "Car parking on site",
+            "Pub within 1 mile"
+         ],
+         "shortDescription":"<p>Tucked away in the picturesque hamlet of Halton Gill at the brow of Littondale in the heart of the Yorkshire Dales...</p>",
+         "pricing":{
+            "from":"£535",
+            "to":"£1012"
+         },
+         "closestDate":"",
+         "closestPriceNow":"£773.5",
+         "closestPriceWas":"-",
+         "Latitude":"54.185007",
+         "Longitutde":"-2.185686",
+         "images":[
+            {
+               "imageURL":"https://img.chooseacottage.co.uk/property/457/400/457867.jpg",
+               "description":"Exterior | Angram Farmhouse, Halton Gill near Litton",
+               "isPrimary":true
+            },
+            {
+               "imageURL":"https://img.chooseacottage.co.uk/property/457/400/457870.jpg",
+               "description":"Living room | Angram Farmhouse, Halton Gill near Litton",
+               "isPrimary":false
+            },
+            {
+               "imageURL":"https://img.chooseacottage.co.uk/property/564/400/564135.jpg",
+               "description":"Living room | Angram Farmhouse, Halton Gill near Litton",
+               "isPrimary":false
+            },
+            {
+               "imageURL":"https://img.chooseacottage.co.uk/property/457/400/457872.jpg",
+               "description":"Kitchen | Angram Farmhouse, Halton Gill near Litton",
+               "isPrimary":false
+            },
+            {
+               "imageURL":"https://img.chooseacottage.co.uk/property/457/400/457875.jpg",
+               "description":"Dining room | Angram Farmhouse, Halton Gill near Litton",
+               "isPrimary":false
+            },
+            {
+               "imageURL":"https://img.chooseacottage.co.uk/property/457/400/457878.jpg",
+               "description":"Double bedroom | Angram Farmhouse, Halton Gill near Litton",
+               "isPrimary":false
+            },
+            {
+               "imageURL":"https://img.chooseacottage.co.uk/property/564/400/564136.jpg",
+               "description":"Twin bedroom | Angram Farmhouse, Halton Gill near Litton",
+               "isPrimary":false
+            },
+            {
+               "imageURL":"https://img.chooseacottage.co.uk/property/564/400/564137.jpg",
+               "description":"Single bedroom | Angram Farmhouse, Halton Gill near Litton",
+               "isPrimary":false
+            },
+            {
+               "imageURL":"https://img.chooseacottage.co.uk/property/457/400/457880.jpg",
+               "description":"Garden | Angram Farmhouse, Halton Gill near Litton",
+               "isPrimary":false
+            },
+            {
+               "imageURL":"https://img.chooseacottage.co.uk/property/799/400/799194.jpg",
+               "description":"Snowdrops in the garden | Angram Farmhouse, Halton Gill near Litton",
+               "isPrimary":false
+            },
+            {
+               "imageURL":"https://img.chooseacottage.co.uk/property/457/300/457867.jpg",
+               "description":"Angram Farmhouse",
+               "isPrimary":false
+            }
+         ]
+      },
+      {
+         "name":"Elm Cottage",
+         "location":"Oughtershaw, near Hawes, Yorkshire",
+         "guests":"7",
+         "beds":"3",
+         "bathrooms":"2",
+         "pets":"0",
+         "grading":4,
+         "url":"/cottages/elm-cottage-24476?adult=2&nights=7&range=3",
+         "ref":"24476",
+         "keyFeatures":[
+            "Wifi",
+            "Car parking on site",
+            "Pub within 1 mile"
+         ],
+         "shortDescription":"<p>This delightful 300-year-old cottage is located in a hamlet in the heart of the National Park. The Dales Way...</p>",
+         "pricing":{
+            "from":"£277",
+            "to":"£856"
+         },
+         "closestDate":"",
+         "closestPriceNow":"£566.5",
+         "closestPriceWas":"-",
+         "Latitude":"54.22893",
+         "Longitutde":"-2.201054",
+         "images":[
+            {
+               "imageURL":"https://img.chooseacottage.co.uk/property/661/400/661426.jpg",
+               "description":"Exterior | Elm Cottage, Oughtershaw, nr. Hawes",
+               "isPrimary":true
+            },
+            {
+               "imageURL":"https://img.chooseacottage.co.uk/property/368/400/368997.jpg",
+               "description":"Living room | Elm Cottage, Oughtershaw, nr. Hawes",
+               "isPrimary":false
+            },
+            {
+               "imageURL":"https://img.chooseacottage.co.uk/property/661/400/661398.jpg",
+               "description":"Living room | Elm Cottage, Oughtershaw, nr. Hawes",
+               "isPrimary":false
+            },
+            {
+               "imageURL":"https://img.chooseacottage.co.uk/property/368/400/368998.jpg",
+               "description":"Dining room | Elm Cottage, Oughtershaw, nr. Hawes",
+               "isPrimary":false
+            },
+            {
+               "imageURL":"https://img.chooseacottage.co.uk/property/368/400/368999.jpg",
+               "description":"Kitchen | Elm Cottage, Oughtershaw, nr. Hawes",
+               "isPrimary":false
+            },
+            {
+               "imageURL":"https://img.chooseacottage.co.uk/property/660/400/660590.jpg",
+               "description":"Kitchen | Elm Cottage, Oughtershaw, nr. Hawes",
+               "isPrimary":false
+            },
+            {
+               "imageURL":"https://img.chooseacottage.co.uk/property/369/400/369000.jpg",
+               "description":"View | Elm Cottage, Oughtershaw, nr. Hawes",
+               "isPrimary":false
+            },
+            {
+               "imageURL":"https://img.chooseacottage.co.uk/property/369/400/369001.jpg",
+               "description":"Double bedroom | Elm Cottage, Oughtershaw, nr. Hawes",
+               "isPrimary":false
+            },
+            {
+               "imageURL":"https://img.chooseacottage.co.uk/property/369/400/369002.jpg",
+               "description":"Double bedroom | Elm Cottage, Oughtershaw, nr. Hawes",
+               "isPrimary":false
+            },
+            {
+               "imageURL":"https://img.chooseacottage.co.uk/property/369/400/369003.jpg",
+               "description":"Bunk bedroom | Elm Cottage, Oughtershaw, nr. Hawes",
+               "isPrimary":false
+            },
+            {
+               "imageURL":"https://img.chooseacottage.co.uk/property/369/400/369004.jpg",
+               "description":"Bathroom | Elm Cottage, Oughtershaw, nr. Hawes",
+               "isPrimary":false
+            },
+            {
+               "imageURL":"https://img.chooseacottage.co.uk/property/369/400/369005.jpg",
+               "description":"Shower room | Elm Cottage, Oughtershaw, nr. Hawes",
+               "isPrimary":false
+            },
+            {
+               "imageURL":"https://img.chooseacottage.co.uk/property/661/400/661420.jpg",
+               "description":"Garden | Elm Cottage, Oughtershaw, nr. Hawes",
+               "isPrimary":false
+            },
+            {
+               "imageURL":"https://img.chooseacottage.co.uk/property/661/400/661430.jpg",
+               "description":"Garden | Elm Cottage, Oughtershaw, nr. Hawes",
+               "isPrimary":false
+            },
+            {
+               "imageURL":"https://img.chooseacottage.co.uk/property/661/400/661423.jpg",
+               "description":"Garden | Elm Cottage, Oughtershaw, nr. Hawes",
+               "isPrimary":false
+            },
+            {
+               "imageURL":"https://img.chooseacottage.co.uk/property/661/400/661431.jpg",
+               "description":"Garden | Elm Cottage, Oughtershaw, nr. Hawes",
+               "isPrimary":false
+            },
+            {
+               "imageURL":"https://img.chooseacottage.co.uk/property/661/400/661425.jpg",
+               "description":"Garden | Elm Cottage, Oughtershaw, nr. Hawes",
+               "isPrimary":false
+            },
+            {
+               "imageURL":"https://img.chooseacottage.co.uk/property/366/400/366367.jpg",
+               "description":"Exterior | Elm Cottage, Oughtershaw, nr. Hawes",
+               "isPrimary":false
+            },
+            {
+               "imageURL":"https://img.chooseacottage.co.uk/property/367/400/367362.jpg",
+               "description":"Exterior | Elm Cottage, Oughtershaw, nr. Hawes",
+               "isPrimary":false
+            },
+            {
+               "imageURL":"https://img.chooseacottage.co.uk/property/661/300/661426.jpg",
+               "description":"Elm Cottage",
+               "isPrimary":false
+            }
+         ]
+      },
+      {
+         "name":"Littondale",
+         "location":"Litton near Kettlewell",
+         "guests":"14",
+         "beds":"6",
+         "bathrooms":"6",
+         "pets":"1",
+         "grading":4,
+         "url":"/cottages/littondale-dc4203?adult=2&nights=7&range=3",
+         "ref":"DC4203",
+         "keyFeatures":[
+            "Wifi",
+            "Car parking on site",
+            "Pub within 1 mile"
+         ],
+         "shortDescription":"<p>Surrounded by some of the most beautiful countryside that the Yorkshire Dales National Park has to offer, this property...</p>",
+         "pricing":{
+            "from":"£1099",
+            "to":"£1879"
+         },
+         "closestDate":"",
+         "closestPriceNow":"£1489",
+         "closestPriceWas":"-",
+         "Latitude":"54.15799",
+         "Longitutde":"-2.132137",
+         "images":[
+            {
+               "imageURL":"https://img.chooseacottage.co.uk/property/455/400/455333.jpg",
+               "description":"Exterior | Littondale, Litton near Kettlewell",
+               "isPrimary":true
+            },
+            {
+               "imageURL":"https://img.chooseacottage.co.uk/property/455/400/455332.jpg",
+               "description":"Exterior | Littondale, Litton near Kettlewell",
+               "isPrimary":false
+            },
+            {
+               "imageURL":"https://img.chooseacottage.co.uk/property/632/400/632851.jpg",
+               "description":"Living room | Littondale, Litton near Kettlewell",
+               "isPrimary":false
+            },
+            {
+               "imageURL":"https://img.chooseacottage.co.uk/property/455/400/455335.jpg",
+               "description":"Living room | Littondale, Litton near Kettlewell",
+               "isPrimary":false
+            },
+            {
+               "imageURL":"https://img.chooseacottage.co.uk/property/455/400/455336.jpg",
+               "description":"Dining room | Littondale, Litton near Kettlewell",
+               "isPrimary":false
+            },
+            {
+               "imageURL":"https://img.chooseacottage.co.uk/property/566/400/566342.jpg",
+               "description":"Kitchen | Littondale, Litton near Kettlewell",
+               "isPrimary":false
+            },
+            {
+               "imageURL":"https://img.chooseacottage.co.uk/property/566/400/566343.jpg",
+               "description":"Four Poster bedroom | Littondale, Litton near Kettlewell",
+               "isPrimary":false
+            },
+            {
+               "imageURL":"https://img.chooseacottage.co.uk/property/566/400/566344.jpg",
+               "description":"Four Poster bedroom | Littondale, Litton near Kettlewell",
+               "isPrimary":false
+            },
+            {
+               "imageURL":"https://img.chooseacottage.co.uk/property/632/400/632852.jpg",
+               "description":"Double bedroom | Littondale, Litton near Kettlewell",
+               "isPrimary":false
+            },
+            {
+               "imageURL":"https://img.chooseacottage.co.uk/property/632/400/632870.jpg",
+               "description":"Twin bedroom | Littondale, Litton near Kettlewell",
+               "isPrimary":false
+            },
+            {
+               "imageURL":"https://img.chooseacottage.co.uk/property/632/400/632871.jpg",
+               "description":"Twin bedroom | Littondale, Litton near Kettlewell",
+               "isPrimary":false
+            },
+            {
+               "imageURL":"https://img.chooseacottage.co.uk/property/632/400/632872.jpg",
+               "description":"Family Room | Littondale, Litton near Kettlewell",
+               "isPrimary":false
+            },
+            {
+               "imageURL":"https://img.chooseacottage.co.uk/property/632/400/632873.jpg",
+               "description":"Bathroom | Littondale, Litton near Kettlewell",
+               "isPrimary":false
+            },
+            {
+               "imageURL":"https://img.chooseacottage.co.uk/property/632/400/632874.jpg",
+               "description":"Bathroom | Littondale, Litton near Kettlewell",
+               "isPrimary":false
+            },
+            {
+               "imageURL":"https://img.chooseacottage.co.uk/property/632/400/632853.jpg",
+               "description":"Bathroom | Littondale, Litton near Kettlewell",
+               "isPrimary":false
+            },
+            {
+               "imageURL":"https://img.chooseacottage.co.uk/property/632/400/632854.jpg",
+               "description":"Bathroom | Littondale, Litton near Kettlewell",
+               "isPrimary":false
+            },
+            {
+               "imageURL":"https://img.chooseacottage.co.uk/property/632/400/632855.jpg",
+               "description":"Garden | Littondale, Litton near Kettlewell",
+               "isPrimary":false
+            },
+            {
+               "imageURL":"https://img.chooseacottage.co.uk/property/723/400/723558.jpg",
+               "description":"Surrounding area | Littondale, Litton near Kettlewell",
+               "isPrimary":false
+            },
+            {
+               "imageURL":"https://img.chooseacottage.co.uk/property/455/300/455333.jpg",
+               "description":"Littondale",
+               "isPrimary":false
+            }
+         ]
+      }
+   ],
+   "filters":[
+      {
+         "name":"region-filter"
+      },
+      {
+         "availableFilters":[
+            {
+               "name":"At Least 1 Bathroom",
+               "count":26,
+               "link":"/yorkshire dales national park?location=yorkshire+dales+national+park&lat=54.1962686&lng=-2.1632062&miles=5&nights=7&range=3&adult=2&child=0&infant=0&pets=0&partyprofile=1&sortorder=2&bathrooms=onebath"
+            },
+            {
+               "name":"At Least 2 Bathrooms",
+               "count":8,
+               "link":"/yorkshire dales national park?location=yorkshire+dales+national+park&lat=54.1962686&lng=-2.1632062&miles=5&nights=7&range=3&adult=2&child=0&infant=0&pets=0&partyprofile=1&sortorder=2&bathrooms=twobath"
+            },
+            {
+               "name":"6+ Bathrooms",
+               "count":1,
+               "link":"/yorkshire dales national park?location=yorkshire+dales+national+park&lat=54.1962686&lng=-2.1632062&miles=5&nights=7&range=3&adult=2&child=0&infant=0&pets=0&partyprofile=1&sortorder=2&bathrooms=sixplusbath"
+            }
+         ],
+         "name":"bathroom-filter"
+      },
+      {
+         "availableFilters":[
+            {
+               "name":"At Least 1 Bedroom excl. Studios",
+               "count":26,
+               "link":"/yorkshire dales national park?location=yorkshire+dales+national+park&lat=54.1962686&lng=-2.1632062&miles=5&nights=7&range=3&adult=2&child=0&infant=0&pets=0&partyprofile=1&sortorder=2&bedrooms=onebedexcludingstudio"
+            },
+            {
+               "name":"At Least 2 Bedrooms",
+               "count":19,
+               "link":"/yorkshire dales national park?location=yorkshire+dales+national+park&lat=54.1962686&lng=-2.1632062&miles=5&nights=7&range=3&adult=2&child=0&infant=0&pets=0&partyprofile=1&sortorder=2&bedrooms=twobed"
+            },
+            {
+               "name":"At Least 3 Bedrooms",
+               "count":8,
+               "link":"/yorkshire dales national park?location=yorkshire+dales+national+park&lat=54.1962686&lng=-2.1632062&miles=5&nights=7&range=3&adult=2&child=0&infant=0&pets=0&partyprofile=1&sortorder=2&bedrooms=threebed"
+            },
+            {
+               "name":"At Least 4 Bedrooms",
+               "count":2,
+               "link":"/yorkshire dales national park?location=yorkshire+dales+national+park&lat=54.1962686&lng=-2.1632062&miles=5&nights=7&range=3&adult=2&child=0&infant=0&pets=0&partyprofile=1&sortorder=2&bedrooms=fourbed"
+            },
+            {
+               "name":"6+ Bedrooms",
+               "count":1,
+               "link":"/yorkshire dales national park?location=yorkshire+dales+national+park&lat=54.1962686&lng=-2.1632062&miles=5&nights=7&range=3&adult=2&child=0&infant=0&pets=0&partyprofile=1&sortorder=2&bedrooms=sixplusbed"
+            }
+         ],
+         "name":"bedroom-filter"
+      },
+      {
+         "availableFilters":[
+            {
+               "name":"All En-suite",
+               "count":2,
+               "link":"/yorkshire dales national park?location=yorkshire+dales+national+park&lat=54.1962686&lng=-2.1632062&miles=5&nights=7&range=3&adult=2&child=0&infant=0&pets=0&partyprofile=1&sortorder=2&trvlperiod=1&workitemid=25825&fshow=1"
+            },
+            {
+               "name":"Barbecue",
+               "count":5,
+               "link":"/yorkshire dales national park?location=yorkshire+dales+national+park&lat=54.1962686&lng=-2.1632062&miles=5&nights=7&range=3&adult=2&child=0&infant=0&pets=0&partyprofile=1&sortorder=2&trvlperiod=1&workitemid=25825&fshow=1"
+            },
+            {
+               "name":"Bike Store",
+               "count":12,
+               "link":"/yorkshire dales national park?location=yorkshire+dales+national+park&lat=54.1962686&lng=-2.1632062&miles=5&nights=7&range=3&adult=2&child=0&infant=0&pets=0&partyprofile=1&sortorder=2&trvlperiod=1&workitemid=25825&fshow=1"
+            },
+            {
+               "name":"Car Parking - On Site",
+               "count":25,
+               "link":"/yorkshire dales national park?location=yorkshire+dales+national+park&lat=54.1962686&lng=-2.1632062&miles=5&nights=7&range=3&adult=2&child=0&infant=0&pets=0&partyprofile=1&sortorder=2&trvlperiod=1&workitemid=25825&fshow=1"
+            },
+            {
+               "name":"Children's Play Area",
+               "count":8,
+               "link":"/yorkshire dales national park?location=yorkshire+dales+national+park&lat=54.1962686&lng=-2.1632062&miles=5&nights=7&range=3&adult=2&child=0&infant=0&pets=0&partyprofile=1&sortorder=2&trvlperiod=1&workitemid=25825&fshow=1"
+            },
+            {
+               "name":"Christmas Themed Cottage",
+               "count":3,
+               "link":"/yorkshire dales national park?location=yorkshire+dales+national+park&lat=54.1962686&lng=-2.1632062&miles=5&nights=7&range=3&adult=2&child=0&infant=0&pets=0&partyprofile=1&sortorder=2&trvlperiod=1&workitemid=25825&fshow=1"
+            },
+            {
+               "name":"Cot Available",
+               "count":11,
+               "link":"/yorkshire dales national park?location=yorkshire+dales+national+park&lat=54.1962686&lng=-2.1632062&miles=5&nights=7&range=3&adult=2&child=0&infant=0&pets=0&partyprofile=1&sortorder=2&trvlperiod=1&workitemid=25825&fshow=1"
+            },
+            {
+               "name":"Customer's choice",
+               "count":1,
+               "link":"/yorkshire dales national park?location=yorkshire+dales+national+park&lat=54.1962686&lng=-2.1632062&miles=5&nights=7&range=3&adult=2&child=0&infant=0&pets=0&partyprofile=1&sortorder=2&trvlperiod=1&workitemid=25825&fshow=1"
+            },
+            {
+               "name":"Detached Property",
+               "count":5,
+               "link":"/yorkshire dales national park?location=yorkshire+dales+national+park&lat=54.1962686&lng=-2.1632062&miles=5&nights=7&range=3&adult=2&child=0&infant=0&pets=0&partyprofile=1&sortorder=2&trvlperiod=1&workitemid=25825&fshow=1"
+            },
+            {
+               "name":"Dishwasher",
+               "count":19,
+               "link":"/yorkshire dales national park?location=yorkshire+dales+national+park&lat=54.1962686&lng=-2.1632062&miles=5&nights=7&range=3&adult=2&child=0&infant=0&pets=0&partyprofile=1&sortorder=2&trvlperiod=1&workitemid=25825&fshow=1"
+            },
+            {
+               "name":"Pub within 1 mile",
+               "count":9,
+               "link":"/yorkshire dales national park?location=yorkshire+dales+national+park&lat=54.1962686&lng=-2.1632062&miles=5&nights=7&range=3&adult=2&child=0&infant=0&pets=0&partyprofile=1&sortorder=2&trvlperiod=1&workitemid=25825&fshow=1"
+            },
+            {
+               "name":"Fishing Nearby",
+               "count":2,
+               "link":"/yorkshire dales national park?location=yorkshire+dales+national+park&lat=54.1962686&lng=-2.1632062&miles=5&nights=7&range=3&adult=2&child=0&infant=0&pets=0&partyprofile=1&sortorder=2&trvlperiod=1&workitemid=25825&fshow=1"
+            },
+            {
+               "name":"Free Pets",
+               "count":5,
+               "link":"/yorkshire dales national park?location=yorkshire+dales+national+park&lat=54.1962686&lng=-2.1632062&miles=5&nights=7&range=3&adult=2&child=0&infant=0&pets=0&partyprofile=1&sortorder=2&trvlperiod=1&workitemid=25825&fshow=1"
+            },
+            {
+               "name":"Garden / Patio",
+               "count":17,
+               "link":"/yorkshire dales national park?location=yorkshire+dales+national+park&lat=54.1962686&lng=-2.1632062&miles=5&nights=7&range=3&adult=2&child=0&infant=0&pets=0&partyprofile=1&sortorder=2&trvlperiod=1&workitemid=25825&fshow=1"
+            },
+            {
+               "name":"Golf nearby",
+               "count":1,
+               "link":"/yorkshire dales national park?location=yorkshire+dales+national+park&lat=54.1962686&lng=-2.1632062&miles=5&nights=7&range=3&adult=2&child=0&infant=0&pets=0&partyprofile=1&sortorder=2&trvlperiod=1&workitemid=25825&fshow=1"
+            },
+            {
+               "name":"Ground Floor Facilities",
+               "count":2,
+               "link":"/yorkshire dales national park?location=yorkshire+dales+national+park&lat=54.1962686&lng=-2.1632062&miles=5&nights=7&range=3&adult=2&child=0&infant=0&pets=0&partyprofile=1&sortorder=2&trvlperiod=1&workitemid=25825&fshow=1"
+            },
+            {
+               "name":"Grouped Properties",
+               "count":10,
+               "link":"/yorkshire dales national park?location=yorkshire+dales+national+park&lat=54.1962686&lng=-2.1632062&miles=5&nights=7&range=3&adult=2&child=0&infant=0&pets=0&partyprofile=1&sortorder=2&trvlperiod=1&workitemid=25825&fshow=1"
+            },
+            {
+               "name":"Heritage Collection",
+               "count":4,
+               "link":"/yorkshire dales national park?location=yorkshire+dales+national+park&lat=54.1962686&lng=-2.1632062&miles=5&nights=7&range=3&adult=2&child=0&infant=0&pets=0&partyprofile=1&sortorder=2&trvlperiod=1&workitemid=25825&fshow=1"
+            },
+            {
+               "name":"Highchair",
+               "count":10,
+               "link":"/yorkshire dales national park?location=yorkshire+dales+national+park&lat=54.1962686&lng=-2.1632062&miles=5&nights=7&range=3&adult=2&child=0&infant=0&pets=0&partyprofile=1&sortorder=2&trvlperiod=1&workitemid=25825&fshow=1"
+            },
+            {
+               "name":"Horse Riding Nearby",
+               "count":2,
+               "link":"/yorkshire dales national park?location=yorkshire+dales+national+park&lat=54.1962686&lng=-2.1632062&miles=5&nights=7&range=3&adult=2&child=0&infant=0&pets=0&partyprofile=1&sortorder=2&trvlperiod=1&workitemid=25825&fshow=1"
+            },
+            {
+               "name":"Internet Connection",
+               "count":18,
+               "link":"/all-regions/?location=yorkshiredalesnationalpark&lat=54.1962686&lng=-2.1632062&miles=5&nights=7&range=3&adult=2&child=0&infant=0&pets=0&partyprofile=1&sortorder=2&trvlperiod=1&workitemid=25825&fshow=1",
+               "subFilters":[
+                  {
+                     "name":"Broadband",
+                     "count":9,
+                     "link":"/all-regions/broadband/?location=yorkshiredalesnationalpark&lat=54.1962686&lng=-2.1632062&miles=5&nights=7&range=3&adult=2&child=0&infant=0&pets=0&partyprofile=1&sortorder=2&trvlperiod=1&workitemid=25825&fshow=1"
+                  },
+                  {
+                     "name":"Wifi",
+                     "count":9,
+                     "link":"/all-regions/wifi/?location=yorkshiredalesnationalpark&lat=54.1962686&lng=-2.1632062&miles=5&nights=7&range=3&adult=2&child=0&infant=0&pets=0&partyprofile=1&sortorder=2&trvlperiod=1&workitemid=25825&fshow=1"
+                  }
+               ]
+            },
+            {
+               "name":"Broadband",
+               "count":9,
+               "link":"/all-regions/broadband/?location=yorkshiredalesnationalpark&lat=54.1962686&lng=-2.1632062&miles=5&nights=7&range=3&adult=2&child=0&infant=0&pets=0&partyprofile=1&sortorder=2&trvlperiod=1&workitemid=25825&fshow=1"
+            },
+            {
+               "name":"Wifi",
+               "count":9,
+               "link":"/all-regions/wifi/?location=yorkshiredalesnationalpark&lat=54.1962686&lng=-2.1632062&miles=5&nights=7&range=3&adult=2&child=0&infant=0&pets=0&partyprofile=1&sortorder=2&trvlperiod=1&workitemid=25825&fshow=1"
+            },
+            {
+               "name":"Newly listed property",
+               "count":4,
+               "link":"/yorkshire dales national park?location=yorkshire+dales+national+park&lat=54.1962686&lng=-2.1632062&miles=5&nights=7&range=3&adult=2&child=0&infant=0&pets=0&partyprofile=1&sortorder=2&trvlperiod=1&workitemid=25825&fshow=1"
+            },
+            {
+               "name":"No Pets Allowed",
+               "count":12,
+               "link":"/yorkshire dales national park?location=yorkshire+dales+national+park&lat=54.1962686&lng=-2.1632062&miles=5&nights=7&range=3&adult=2&child=0&infant=0&pets=0&partyprofile=1&sortorder=2&trvlperiod=1&workitemid=25825&fshow=1"
+            },
+            {
+               "name":"Open Fire",
+               "count":3,
+               "link":"/yorkshire dales national park?location=yorkshire+dales+national+park&lat=54.1962686&lng=-2.1632062&miles=5&nights=7&range=3&adult=2&child=0&infant=0&pets=0&partyprofile=1&sortorder=2&trvlperiod=1&workitemid=25825&fshow=1"
+            },
+            {
+               "name":"Open Plan",
+               "count":1,
+               "link":"/yorkshire dales national park?location=yorkshire+dales+national+park&lat=54.1962686&lng=-2.1632062&miles=5&nights=7&range=3&adult=2&child=0&infant=0&pets=0&partyprofile=1&sortorder=2&trvlperiod=1&workitemid=25825&fshow=1"
+            },
+            {
+               "name":"Pub within 1 mile",
+               "count":16,
+               "link":"/yorkshire dales national park?location=yorkshire+dales+national+park&lat=54.1962686&lng=-2.1632062&miles=5&nights=7&range=3&adult=2&child=0&infant=0&pets=0&partyprofile=1&sortorder=2&trvlperiod=1&workitemid=25825&fshow=1"
+            },
+            {
+               "name":"Quirky Properties",
+               "count":1,
+               "link":"/yorkshire dales national park?location=yorkshire+dales+national+park&lat=54.1962686&lng=-2.1632062&miles=5&nights=7&range=3&adult=2&child=0&infant=0&pets=0&partyprofile=1&sortorder=2&trvlperiod=1&workitemid=25825&fshow=1",
+               "subFilters":[
+                  {
+                     "name":"Church or Chapel",
+                     "count":1,
+                     "link":"/yorkshire dales national park?location=yorkshire+dales+national+park&lat=54.1962686&lng=-2.1632062&miles=5&nights=7&range=3&adult=2&child=0&infant=0&pets=0&partyprofile=1&sortorder=2&trvlperiod=1&workitemid=25825&fshow=1"
+                  }
+               ]
+            },
+            {
+               "name":"Church or Chapel",
+               "count":1,
+               "link":"/yorkshire dales national park?location=yorkshire+dales+national+park&lat=54.1962686&lng=-2.1632062&miles=5&nights=7&range=3&adult=2&child=0&infant=0&pets=0&partyprofile=1&sortorder=2&trvlperiod=1&workitemid=25825&fshow=1"
+            },
+            {
+               "name":"Romantic Collection",
+               "count":4,
+               "link":"/yorkshire dales national park?location=yorkshire+dales+national+park&lat=54.1962686&lng=-2.1632062&miles=5&nights=7&range=3&adult=2&child=0&infant=0&pets=0&partyprofile=1&sortorder=2&trvlperiod=1&workitemid=25825&fshow=1"
+            },
+            {
+               "name":"Rural Location",
+               "count":15,
+               "link":"/yorkshire dales national park?location=yorkshire+dales+national+park&lat=54.1962686&lng=-2.1632062&miles=5&nights=7&range=3&adult=2&child=0&infant=0&pets=0&partyprofile=1&sortorder=2&trvlperiod=1&workitemid=25825&fshow=1"
+            },
+            {
+               "name":"Stairgate",
+               "count":1,
+               "link":"/yorkshire dales national park?location=yorkshire+dales+national+park&lat=54.1962686&lng=-2.1632062&miles=5&nights=7&range=3&adult=2&child=0&infant=0&pets=0&partyprofile=1&sortorder=2&trvlperiod=1&workitemid=25825&fshow=1"
+            },
+            {
+               "name":"Swimming Pool",
+               "count":8,
+               "link":"/all-regions/swimming-pool/?location=yorkshiredalesnationalpark&lat=54.1962686&lng=-2.1632062&miles=5&nights=7&range=3&adult=2&child=0&infant=0&pets=0&partyprofile=1&sortorder=2&trvlperiod=1&workitemid=25825&fshow=1"
+            },
+            {
+               "name":"Swimming Pool - Indoor",
+               "count":8,
+               "link":"/yorkshire dales national park?location=yorkshire+dales+national+park&lat=54.1962686&lng=-2.1632062&miles=5&nights=7&range=3&adult=2&child=0&infant=0&pets=0&partyprofile=1&sortorder=2&trvlperiod=1&workitemid=25825&fshow=1"
+            },
+            {
+               "name":"Swimming Pool - Shared",
+               "count":8,
+               "link":"/yorkshire dales national park?location=yorkshire+dales+national+park&lat=54.1962686&lng=-2.1632062&miles=5&nights=7&range=3&adult=2&child=0&infant=0&pets=0&partyprofile=1&sortorder=2&trvlperiod=1&workitemid=25825&fshow=1"
+            },
+            {
+               "name":"Walk-in Shower/Bath",
+               "count":5,
+               "link":"/yorkshire dales national park?location=yorkshire+dales+national+park&lat=54.1962686&lng=-2.1632062&miles=5&nights=7&range=3&adult=2&child=0&infant=0&pets=0&partyprofile=1&sortorder=2&trvlperiod=1&workitemid=25825&fshow=1"
+            },
+            {
+               "name":"Washing Machine",
+               "count":15,
+               "link":"/yorkshire dales national park?location=yorkshire+dales+national+park&lat=54.1962686&lng=-2.1632062&miles=5&nights=7&range=3&adult=2&child=0&infant=0&pets=0&partyprofile=1&sortorder=2&trvlperiod=1&workitemid=25825&fshow=1"
+            },
+            {
+               "name":"Woodburning Stove",
+               "count":10,
+               "link":"/yorkshire dales national park?location=yorkshire+dales+national+park&lat=54.1962686&lng=-2.1632062&miles=5&nights=7&range=3&adult=2&child=0&infant=0&pets=0&partyprofile=1&sortorder=2&trvlperiod=1&workitemid=25825&fshow=1"
+            },
+            {
+               "name":"Working Farm",
+               "count":2,
+               "link":"/yorkshire dales national park?location=yorkshire+dales+national+park&lat=54.1962686&lng=-2.1632062&miles=5&nights=7&range=3&adult=2&child=0&infant=0&pets=0&partyprofile=1&sortorder=2&trvlperiod=1&workitemid=25825&fshow=1"
+            }
+         ],
+         "name":"feature-filter"
+      }
+   ],
+  "polygon": [
+    {
+      "latitude": 54.294088, 
+      "longitude": -1.990585
+    },
+    {
+      "latitude": 54.302903, 
+      "longitude": -2.225418
+    },
+    {
+      "latitude": 54.209042, 
+      "longitude": -2.360001
+    },
+    {
+      "latitude": 54.036006,
+      "longitude": -2.281723
+    },
+    {
+      "latitude": 53.975474,
+      "longitude": -2.013931
+    },
+    {
+      "latitude": 54.055357,
+      "longitude": -1.974106
+    },
+    {
+      "latitude": 54.202617,
+      "longitude": -2.078476
+    }
+  ]
+}

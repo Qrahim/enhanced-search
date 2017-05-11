@@ -1,0 +1,492 @@
+{
+    "summary": {
+        "nights": "7",
+        "flexibility": "3",
+        "adults": "2",
+        "children": "0",
+        "infants": "0",
+        "polygon": "England",
+        "date": "28052017T00:00:00"
+    },
+    "filters": [
+        {
+            "availableFilters": [
+                {
+                    "name": "Buckinghamshire",
+                    "count": 14
+                },
+                {
+                    "name": "Derbyshire",
+                    "count": 474
+                },
+                {
+                    "name": "Gloucestershire",
+                    "count": 325
+                },
+                {
+                    "name": "Hertfordshire",
+                    "count": 1
+                },
+                {
+                    "name": "Leciestershire",
+                    "count": 6
+                },
+                {
+                    "name": "Lincolnshire",
+                    "count": 246
+                },
+                {
+                    "name": "Northamptonshire",
+                    "count": 23
+                },
+                {
+                    "name": "Nottinghamshire",
+                    "count": 21
+                },
+                {
+                    "name": "Oxfordshire",
+                    "count": 67
+                },
+                {
+                    "name": "Rutland",
+                    "count": 5
+                },
+                {
+                    "name": "Shropshire",
+                    "count": 171
+                },
+                {
+                    "name": "Straffordshire",
+                    "count": 96
+                },
+                {
+                    "name": "Warwickshire",
+                    "count": 60
+                },
+                {
+                    "name": "Worchestershire",
+                    "count": 97
+                },
+                {
+                    "name": "Cambridgeshire",
+                    "count": 54
+                },
+                {
+                    "name": "Essex",
+                    "count": 61
+                },
+                {
+                    "name": "Norfolk",
+                    "count": 796
+                },
+                {
+                    "name": "Suffolk",
+                    "count": 298
+                },
+                {
+                    "name": "County Durham",
+                    "count": 142
+                },
+                {
+                    "name": "Northumberland",
+                    "count": 810
+                },
+                {
+                    "name": "Yorkshire",
+                    "count": 1758
+                },
+                {
+                    "name": "Cheshire",
+                    "count": 51
+                },
+                {
+                    "name": "Cumbria",
+                    "count": 1440
+                },
+                {
+                    "name": "Lancashire",
+                    "count": 146
+                },
+                {
+                    "name": "Cornwall",
+                    "count": 1170
+                },
+                {
+                    "name": "Devon",
+                    "count": 1218
+                },
+                {
+                    "name": "Dorset",
+                    "count": 430
+                },
+                {
+                    "name": "Somerset",
+                    "count": 405
+                },
+                {
+                    "name": "Berkshire",
+                    "count": 3
+                },
+                {
+                    "name": "Greater London",
+                    "count": 5
+                },
+                {
+                    "name": "Hampshire",
+                    "count": 125
+                },
+                {
+                    "name": "Isle of Wight",
+                    "count": 244
+                },
+                {
+                    "name": "Kent",
+                    "count": 228
+                },
+                {
+                    "name": "Surrey",
+                    "count": 13
+                },
+                {
+                    "name": "Sussex",
+                    "count": 319
+                },
+                {
+                    "name": "Wiltshire",
+                    "count": 77
+                }
+            ],
+            "name": "region-filter"
+        },
+        {
+            "availableFilters": [
+                {
+                    "name": "At Least 1 Bathroom",
+                    "count": 26,
+                    "value": 1
+                },
+                {
+                    "name": "At Least 2 Bathrooms",
+                    "count": 8,
+                    "value": 2
+                },
+                {
+                    "name": "6+ Bathrooms",
+                    "count": 1,
+                    "value": 6                
+                }
+            ],
+            "name": "bathroom-filter"
+        },
+        {
+            "availableFilters": [
+                {
+                    "name": "At Least 1 Bedroom excl. Studios",
+                    "count": 26,
+                    "value": 1
+                },
+                {
+                    "name": "At Least 2 Bedrooms",
+                    "count": 19,
+                    "value": 2
+                },
+                {
+                    "name": "At Least 3 Bedrooms",
+                    "count": 8,
+                    "value": 3
+                },
+                {
+                    "name": "At Least 4 Bedrooms",
+                    "count": 2,
+                    "value": 4
+                },
+                {
+                    "name": "6+ Bedrooms",
+                    "count": 1,
+                    "value": 6
+                }
+            ],
+            "name": "bedroom-filter"
+        },
+        {
+            "availableFilters": [
+                {
+                    "name": "All En-suite",
+                    "count": 2,
+                    "link": "/yorkshire dales national park?location=yorkshire+dales+national+park&lat=54.1962686&lng=-2.1632062&miles=5&nights=7&range=3&adult=2&child=0&infant=0&pets=0&partyprofile=1&sortorder=2&trvlperiod=1&workitemid=25825&fshow=1",
+                    "id": 6581
+                },
+                {
+                    "name": "Barbecue",
+                    "count": 5,
+                    "link": "/yorkshire dales national park?location=yorkshire+dales+national+park&lat=54.1962686&lng=-2.1632062&miles=5&nights=7&range=3&adult=2&child=0&infant=0&pets=0&partyprofile=1&sortorder=2&trvlperiod=1&workitemid=25825&fshow=1",
+                    "id": 9761
+                },
+                {
+                    "name": "Bike Store",
+                    "count": 12,
+                    "link": "/yorkshire dales national park?location=yorkshire+dales+national+park&lat=54.1962686&lng=-2.1632062&miles=5&nights=7&range=3&adult=2&child=0&infant=0&pets=0&partyprofile=1&sortorder=2&trvlperiod=1&workitemid=25825&fshow=1",
+                    "id": 9561
+                },
+                {
+                    "name": "Car Parking - On Site",
+                    "count": 25,
+                    "link": "/yorkshire dales national park?location=yorkshire+dales+national+park&lat=54.1962686&lng=-2.1632062&miles=5&nights=7&range=3&adult=2&child=0&infant=0&pets=0&partyprofile=1&sortorder=2&trvlperiod=1&workitemid=25825&fshow=1",
+                    "id": 7926
+                },
+                {
+                    "name": "Children's Play Area",
+                    "count": 8,
+                    "link": "/yorkshire dales national park?location=yorkshire+dales+national+park&lat=54.1962686&lng=-2.1632062&miles=5&nights=7&range=3&adult=2&child=0&infant=0&pets=0&partyprofile=1&sortorder=2&trvlperiod=1&workitemid=25825&fshow=1",
+                    "id": 6315
+                },
+                {
+                    "name": "Christmas Themed Cottage",
+                    "count": 3,
+                    "link": "/yorkshire dales national park?location=yorkshire+dales+national+park&lat=54.1962686&lng=-2.1632062&miles=5&nights=7&range=3&adult=2&child=0&infant=0&pets=0&partyprofile=1&sortorder=2&trvlperiod=1&workitemid=25825&fshow=1",
+                    "id": 9318
+                },
+                {
+                    "name": "Cot Available",
+                    "count": 11,
+                    "link": "/yorkshire dales national park?location=yorkshire+dales+national+park&lat=54.1962686&lng=-2.1632062&miles=5&nights=7&range=3&adult=2&child=0&infant=0&pets=0&partyprofile=1&sortorder=2&trvlperiod=1&workitemid=25825&fshow=1",
+                    "id": 3481
+                },
+                {
+                    "name": "Customer's choice",
+                    "count": 1,
+                    "link": "/yorkshire dales national park?location=yorkshire+dales+national+park&lat=54.1962686&lng=-2.1632062&miles=5&nights=7&range=3&adult=2&child=0&infant=0&pets=0&partyprofile=1&sortorder=2&trvlperiod=1&workitemid=25825&fshow=1",
+                    "id": 6784
+                },
+                {
+                    "name": "Detached Property",
+                    "count": 5,
+                    "link": "/yorkshire dales national park?location=yorkshire+dales+national+park&lat=54.1962686&lng=-2.1632062&miles=5&nights=7&range=3&adult=2&child=0&infant=0&pets=0&partyprofile=1&sortorder=2&trvlperiod=1&workitemid=25825&fshow=1",
+                    "id": 4629
+                },
+                {
+                    "name": "Dishwasher",
+                    "count": 19,
+                    "link": "/yorkshire dales national park?location=yorkshire+dales+national+park&lat=54.1962686&lng=-2.1632062&miles=5&nights=7&range=3&adult=2&child=0&infant=0&pets=0&partyprofile=1&sortorder=2&trvlperiod=1&workitemid=25825&fshow=1",
+                    "id": 6486
+                },
+                {
+                    "name": "Pub within 1 mile",
+                    "count": 9,
+                    "link": "/yorkshire dales national park?location=yorkshire+dales+national+park&lat=54.1962686&lng=-2.1632062&miles=5&nights=7&range=3&adult=2&child=0&infant=0&pets=0&partyprofile=1&sortorder=2&trvlperiod=1&workitemid=25825&fshow=1",
+                    "id": 7616
+                },
+                {
+                    "name": "Fishing Nearby",
+                    "count": 2,
+                    "link": "/yorkshire dales national park?location=yorkshire+dales+national+park&lat=54.1962686&lng=-2.1632062&miles=5&nights=7&range=3&adult=2&child=0&infant=0&pets=0&partyprofile=1&sortorder=2&trvlperiod=1&workitemid=25825&fshow=1",
+                    "id": 3518
+                },
+                {
+                    "name": "Free Pets",
+                    "count": 5,
+                    "link": "/yorkshire dales national park?location=yorkshire+dales+national+park&lat=54.1962686&lng=-2.1632062&miles=5&nights=7&range=3&adult=2&child=0&infant=0&pets=0&partyprofile=1&sortorder=2&trvlperiod=1&workitemid=25825&fshow=1",
+                    "id": 6974
+                },
+                {
+                    "name": "Garden / Patio",
+                    "count": 17,
+                    "link": "/yorkshire dales national park?location=yorkshire+dales+national+park&lat=54.1962686&lng=-2.1632062&miles=5&nights=7&range=3&adult=2&child=0&infant=0&pets=0&partyprofile=1&sortorder=2&trvlperiod=1&workitemid=25825&fshow=1",
+                    "id": 8765
+                },
+                {
+                    "name": "Golf nearby",
+                    "count": 1,
+                    "link": "/yorkshire dales national park?location=yorkshire+dales+national+park&lat=54.1962686&lng=-2.1632062&miles=5&nights=7&range=3&adult=2&child=0&infant=0&pets=0&partyprofile=1&sortorder=2&trvlperiod=1&workitemid=25825&fshow=1",
+                    "id": 9854
+                },
+                {
+                    "name": "Ground Floor Facilities",
+                    "count": 2,
+                    "link": "/yorkshire dales national park?location=yorkshire+dales+national+park&lat=54.1962686&lng=-2.1632062&miles=5&nights=7&range=3&adult=2&child=0&infant=0&pets=0&partyprofile=1&sortorder=2&trvlperiod=1&workitemid=25825&fshow=1",
+                    "id": 5201
+                },
+                {
+                    "name": "Grouped Properties",
+                    "count": 10,
+                    "link": "/yorkshire dales national park?location=yorkshire+dales+national+park&lat=54.1962686&lng=-2.1632062&miles=5&nights=7&range=3&adult=2&child=0&infant=0&pets=0&partyprofile=1&sortorder=2&trvlperiod=1&workitemid=25825&fshow=1",
+                    "id": 8748
+                },
+                {
+                    "name": "Heritage Collection",
+                    "count": 4,
+                    "link": "/yorkshire dales national park?location=yorkshire+dales+national+park&lat=54.1962686&lng=-2.1632062&miles=5&nights=7&range=3&adult=2&child=0&infant=0&pets=0&partyprofile=1&sortorder=2&trvlperiod=1&workitemid=25825&fshow=1",
+                    "id": 8895
+                },
+                {
+                    "name": "Highchair",
+                    "count": 10,
+                    "link": "/yorkshire dales national park?location=yorkshire+dales+national+park&lat=54.1962686&lng=-2.1632062&miles=5&nights=7&range=3&adult=2&child=0&infant=0&pets=0&partyprofile=1&sortorder=2&trvlperiod=1&workitemid=25825&fshow=1",
+                    "id": 6237
+                },
+                {
+                    "name": "Horse Riding Nearby",
+                    "count": 2,
+                    "link": "/yorkshire dales national park?location=yorkshire+dales+national+park&lat=54.1962686&lng=-2.1632062&miles=5&nights=7&range=3&adult=2&child=0&infant=0&pets=0&partyprofile=1&sortorder=2&trvlperiod=1&workitemid=25825&fshow=1",
+                    "id": 5949
+                },
+                {
+                    "name": "Internet Connection",
+                    "count": 18,
+                    "link": "/all-regions/?location=yorkshiredalesnationalpark&lat=54.1962686&lng=-2.1632062&miles=5&nights=7&range=3&adult=2&child=0&infant=0&pets=0&partyprofile=1&sortorder=2&trvlperiod=1&workitemid=25825&fshow=1",
+                    "id": 7849,
+                    "subFilters": [
+                        {
+                            "name": "Broadband",
+                            "count": 9,
+                            "link": "/all-regions/broadband/?location=yorkshiredalesnationalpark&lat=54.1962686&lng=-2.1632062&miles=5&nights=7&range=3&adult=2&child=0&infant=0&pets=0&partyprofile=1&sortorder=2&trvlperiod=1&workitemid=25825&fshow=1",
+                            "id": 4626
+                        },
+                        {
+                            "name": "Wifi",
+                            "count": 9,
+                            "link": "/all-regions/wifi/?location=yorkshiredalesnationalpark&lat=54.1962686&lng=-2.1632062&miles=5&nights=7&range=3&adult=2&child=0&infant=0&pets=0&partyprofile=1&sortorder=2&trvlperiod=1&workitemid=25825&fshow=1",
+                            "id": 4926
+                        }
+                    ]
+                },
+                {
+                    "name": "Broadband",
+                    "count": 9,
+                    "link": "/all-regions/broadband/?location=yorkshiredalesnationalpark&lat=54.1962686&lng=-2.1632062&miles=5&nights=7&range=3&adult=2&child=0&infant=0&pets=0&partyprofile=1&sortorder=2&trvlperiod=1&workitemid=25825&fshow=1",
+                    "id": 8795
+                },
+                {
+                    "name": "Wifi",
+                    "count": 9,
+                    "link": "/all-regions/wifi/?location=yorkshiredalesnationalpark&lat=54.1962686&lng=-2.1632062&miles=5&nights=7&range=3&adult=2&child=0&infant=0&pets=0&partyprofile=1&sortorder=2&trvlperiod=1&workitemid=25825&fshow=1",
+                    "id": 9569
+                },
+                {
+                    "name": "Newly listed property",
+                    "count": 4,
+                    "link": "/yorkshire dales national park?location=yorkshire+dales+national+park&lat=54.1962686&lng=-2.1632062&miles=5&nights=7&range=3&adult=2&child=0&infant=0&pets=0&partyprofile=1&sortorder=2&trvlperiod=1&workitemid=25825&fshow=1",
+                    "id": 3621
+                },
+                {
+                    "name": "No Pets Allowed",
+                    "count": 12,
+                    "link": "/yorkshire dales national park?location=yorkshire+dales+national+park&lat=54.1962686&lng=-2.1632062&miles=5&nights=7&range=3&adult=2&child=0&infant=0&pets=0&partyprofile=1&sortorder=2&trvlperiod=1&workitemid=25825&fshow=1",
+                    "id": 6666
+                },
+                {
+                    "name": "Open Fire",
+                    "count": 3,
+                    "link": "/yorkshire dales national park?location=yorkshire+dales+national+park&lat=54.1962686&lng=-2.1632062&miles=5&nights=7&range=3&adult=2&child=0&infant=0&pets=0&partyprofile=1&sortorder=2&trvlperiod=1&workitemid=25825&fshow=1",
+                    "id": 7777
+                },
+                {
+                    "name": "Open Plan",
+                    "count": 1,
+                    "link": "/yorkshire dales national park?location=yorkshire+dales+national+park&lat=54.1962686&lng=-2.1632062&miles=5&nights=7&range=3&adult=2&child=0&infant=0&pets=0&partyprofile=1&sortorder=2&trvlperiod=1&workitemid=25825&fshow=1",
+                    "id": 9999
+                },
+                {
+                    "name": "Pub within 1 mile",
+                    "count": 16,
+                    "link": "/yorkshire dales national park?location=yorkshire+dales+national+park&lat=54.1962686&lng=-2.1632062&miles=5&nights=7&range=3&adult=2&child=0&infant=0&pets=0&partyprofile=1&sortorder=2&trvlperiod=1&workitemid=25825&fshow=1",
+                    "id": 9951
+                },
+                {
+                    "name": "Quirky Properties",
+                    "count": 1,
+                    "link": "/yorkshire dales national park?location=yorkshire+dales+national+park&lat=54.1962686&lng=-2.1632062&miles=5&nights=7&range=3&adult=2&child=0&infant=0&pets=0&partyprofile=1&sortorder=2&trvlperiod=1&workitemid=25825&fshow=1",
+                    "id": 7764,
+                    "subFilters": [
+                        {
+                            "name": "Church or Chapel",
+                            "count": 1,
+                            "link": "/yorkshire dales national park?location=yorkshire+dales+national+park&lat=54.1962686&lng=-2.1632062&miles=5&nights=7&range=3&adult=2&child=0&infant=0&pets=0&partyprofile=1&sortorder=2&trvlperiod=1&workitemid=25825&fshow=1",
+                            "id": 2374
+                        }
+                    ]
+                },
+                {
+                    "name": "Church or Chapel",
+                    "count": 1,
+                    "link": "/yorkshire dales national park?location=yorkshire+dales+national+park&lat=54.1962686&lng=-2.1632062&miles=5&nights=7&range=3&adult=2&child=0&infant=0&pets=0&partyprofile=1&sortorder=2&trvlperiod=1&workitemid=25825&fshow=1",
+                    "id": 4343
+                },
+                {
+                    "name": "Romantic Collection",
+                    "count": 4,
+                    "link": "/yorkshire dales national park?location=yorkshire+dales+national+park&lat=54.1962686&lng=-2.1632062&miles=5&nights=7&range=3&adult=2&child=0&infant=0&pets=0&partyprofile=1&sortorder=2&trvlperiod=1&workitemid=25825&fshow=1",
+                    "id": 1122
+                },
+                {
+                    "name": "Rural Location",
+                    "count": 15,
+                    "link": "/yorkshire dales national park?location=yorkshire+dales+national+park&lat=54.1962686&lng=-2.1632062&miles=5&nights=7&range=3&adult=2&child=0&infant=0&pets=0&partyprofile=1&sortorder=2&trvlperiod=1&workitemid=25825&fshow=1",
+                    "id": 1111
+                },
+                {
+                    "name": "Stairgate",
+                    "count": 1,
+                    "link": "/yorkshire dales national park?location=yorkshire+dales+national+park&lat=54.1962686&lng=-2.1632062&miles=5&nights=7&range=3&adult=2&child=0&infant=0&pets=0&partyprofile=1&sortorder=2&trvlperiod=1&workitemid=25825&fshow=1",
+                    "id": 2222
+                },
+                {
+                    "name": "Swimming Pool",
+                    "count": 8,
+                    "link": "/all-regions/swimming-pool/?location=yorkshiredalesnationalpark&lat=54.1962686&lng=-2.1632062&miles=5&nights=7&range=3&adult=2&child=0&infant=0&pets=0&partyprofile=1&sortorder=2&trvlperiod=1&workitemid=25825&fshow=1",
+                    "id": 3214
+                },
+                {
+                    "name": "Swimming Pool - Indoor",
+                    "count": 8,
+                    "link": "/yorkshire dales national park?location=yorkshire+dales+national+park&lat=54.1962686&lng=-2.1632062&miles=5&nights=7&range=3&adult=2&child=0&infant=0&pets=0&partyprofile=1&sortorder=2&trvlperiod=1&workitemid=25825&fshow=1",
+                    "id": 4123
+                },
+                {
+                    "name": "Swimming Pool - Shared",
+                    "count": 8,
+                    "link": "/yorkshire dales national park?location=yorkshire+dales+national+park&lat=54.1962686&lng=-2.1632062&miles=5&nights=7&range=3&adult=2&child=0&infant=0&pets=0&partyprofile=1&sortorder=2&trvlperiod=1&workitemid=25825&fshow=1",
+                    "id": 8961
+                },
+                {
+                    "name": "Walk-in Shower/Bath",
+                    "count": 5,
+                    "link": "/yorkshire dales national park?location=yorkshire+dales+national+park&lat=54.1962686&lng=-2.1632062&miles=5&nights=7&range=3&adult=2&child=0&infant=0&pets=0&partyprofile=1&sortorder=2&trvlperiod=1&workitemid=25825&fshow=1",
+                    "id": 9125
+                },
+                {
+                    "name": "Washing Machine",
+                    "count": 15,
+                    "link": "/yorkshire dales national park?location=yorkshire+dales+national+park&lat=54.1962686&lng=-2.1632062&miles=5&nights=7&range=3&adult=2&child=0&infant=0&pets=0&partyprofile=1&sortorder=2&trvlperiod=1&workitemid=25825&fshow=1",
+                    "id": 9821
+                },
+                {
+                    "name": "Woodburning Stove",
+                    "count": 10,
+                    "link": "/yorkshire dales national park?location=yorkshire+dales+national+park&lat=54.1962686&lng=-2.1632062&miles=5&nights=7&range=3&adult=2&child=0&infant=0&pets=0&partyprofile=1&sortorder=2&trvlperiod=1&workitemid=25825&fshow=1",
+                    "id": 8611
+                },
+                {
+                    "name": "Working Farm",
+                    "count": 2,
+                    "link": "/yorkshire dales national park?location=yorkshire+dales+national+park&lat=54.1962686&lng=-2.1632062&miles=5&nights=7&range=3&adult=2&child=0&infant=0&pets=0&partyprofile=1&sortorder=2&trvlperiod=1&workitemid=25825&fshow=1",
+                    "id": 9642
+                }
+            ],
+            "name": "feature-filter"
+        },
+        {
+            "availableFilters": [
+                {
+                    "name": "min",
+                    "value": 50
+                },
+                {
+                    "name": "max",
+                    "value": 600
+                }
+            ],
+            "name": "price-range"
+        }
+    ]
+}
